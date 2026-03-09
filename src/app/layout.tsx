@@ -1,10 +1,10 @@
 import type { Metadata } from 'next'
-import { Cormorant_Garamond, Outfit } from 'next/font/google'
+import { EB_Garamond, Outfit } from 'next/font/google'
 import './globals.css'
 
-const serif = Cormorant_Garamond({
+const serif = EB_Garamond({
   subsets: ['latin'],
-  weight: ['300', '400', '500', '600', '700'],
+  weight: ['400', '500', '600', '700'],
   style: ['normal', 'italic'],
   variable: '--font-serif',
   display: 'swap',
