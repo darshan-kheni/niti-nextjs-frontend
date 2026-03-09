@@ -1,18 +1,12 @@
-import { createServerClient as _createServerClient } from '@supabase/ssr'
+import { createServerClient as _createServerClient, type CookieOptions } from '@supabase/ssr'
 
 type CookieStore = {
   getAll(): { name: string; value: string }[]
-  set(name: string, value: string, options?: Record<string, unknown>): void
+  set(name: string, value: string, options?: CookieOptions): void
 }
 
-/**
- * Creates a Supabase server client. Accepts a cookieStore parameter
- * to avoid importing next/headers directly (keeps shared/ decoupled).
- *
- * Usage in Next.js Server Components / Actions:
- *   import { cookies } from 'next/headers'
- *   const supabase = createServerClient(cookies())
- */
+type CookieToSet = { name: string; value: string; options?: CookieOptions }
+
 export function createServerClient(cookieStore: CookieStore) {
   return _createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -20,7 +14,7 @@ export function createServerClient(cookieStore: CookieStore) {
     {
       cookies: {
         getAll() { return cookieStore.getAll() },
-        setAll(cookiesToSet) {
+        setAll(cookiesToSet: CookieToSet[]) {
           try {
             cookiesToSet.forEach(({ name, value, options }) =>
               cookieStore.set(name, value, options)
