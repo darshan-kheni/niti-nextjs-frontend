@@ -1,0 +1,2863 @@
+[
+  {
+    "id": 1,
+    "num": "#1",
+    "title": "The Four Agreements",
+    "date": "Nov 14, 2015",
+    "icon": "🤝",
+    "color": "#C9A96E",
+    "sections": [
+      {
+        "heading": "The Four Agreements",
+        "points": [
+          "Be impeccable with your word.",
+          "Don't take anything personally.",
+          "Don't make assumptions.",
+          "Always do your best."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "num": "#2",
+    "title": "You Are a Badass at Making Money",
+    "subtitle": "Jen Sincero",
+    "date": "Nov 15–20, 2015",
+    "icon": "💰",
+    "color": "#6EC9A9",
+    "sections": [
+      {
+        "heading": "1) Take Risk — Living Your Best Life",
+        "points": [
+          "\"The meaning of Rich Life: Being able to afford all the things and experiences required to fully live your most authentic life.\""
+        ]
+      },
+      {
+        "heading": "2) It's All In Your Head",
+        "points": [
+          "Control your mindset.",
+          "\"Just like money, your thoughts are incredibly influential when forming your reality.\"",
+          "Become aware of your limiting thoughts — what you believe and your excuses shape your actual life."
+        ]
+      },
+      {
+        "heading": "3) Question & Investigate Them",
+        "points": [
+          "Question and investigate your limiting beliefs.",
+          "Say it out loud and feel proud."
+        ]
+      },
+      {
+        "heading": "4) The Power of the Universe",
+        "points": [
+          "The Power of the Universe — from The Secret Book."
+        ]
+      },
+      {
+        "heading": "5) Money, Money and Money",
+        "points": [
+          "\"Give as much as you can with gratitude, receive often with gratitude as you can, and think of money frequently, cause your pause and get in the Flow.\""
+        ]
+      },
+      {
+        "heading": "6) Best Practices for Pushing Yourself",
+        "points": [
+          "Burn Rush Your Fears.",
+          "Take Risk.",
+          "Watch Your Mouth — you need to slow down and shut up.",
+          "Take time to carefully consider your words before you speak them.",
+          "Shut up Even More — sometimes being silent can be purposeful and insightful.",
+          "Have an acknowledgement that you have money.",
+          "\"Ing\" — talks with money, a relationship with money."
+        ]
+      },
+      {
+        "heading": "7) Follow Your Heart",
+        "points": [
+          "Don't be vague, be specific.",
+          "Have benchmarks and goals.",
+          "Consider what you are — things come naturally for a reason.",
+          "Be true to yourself.",
+          "Remember: You can have more. You can have a career. You can travel and run the world. Don't cut yourself off from opportunities.",
+          "\"Never lose Faith, Trust in the process.\"",
+          "\"You can have Excuses or Success, You cannot have Both.\""
+        ]
+      },
+      {
+        "heading": "8) Make Money Decisions",
+        "points": [
+          "Track money — the amount likes to be tracked.",
+          "Acknowledge how much money you have, what you spend.",
+          "Treat money with respect. Be grateful for it.",
+          "Hire professionals to help you manage your money.",
+          "Make room for your money. Make it welcome in your life.",
+          "Take action Right Now — Charge what you are worth.",
+          "Treat each and everything you do with your best and consistently do your best."
+        ]
+      },
+      {
+        "heading": "9) Things You Need to Do to Get Rich",
+        "points": [
+          "Track money the amount like to be tracked.",
+          "\"Acknowledge how much money you have, what you spend.\"",
+          "\"Treat money with respect — be grateful for it.\""
+        ]
+      },
+      {
+        "heading": "10) Form a Rich Successful Habit",
+        "points": [
+          "Be a risk taker. Stick to your decisions.",
+          "Set boundaries. Read, Learn, Meditate.",
+          "Give back. Be disciplined. Be patient.",
+          "Delegate. Surround yourself with peaceful and creative people.",
+          "Don't give up.",
+          "\"Know what's going on with your money — you can get rich.\"",
+          "\"Stop thinking and spending negatively about money.\"",
+          "\"Our thoughts and emotions can be more peaceful.\"",
+          "\"If you can change your mindset about money, you can change your financial situation.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "num": "#3",
+    "title": "The Psychology of Money",
+    "subtitle": "Morgan Housel",
+    "date": "Nov 21–28, 2015",
+    "icon": "🧠",
+    "color": "#9A6EC9",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "points": [
+          "To grasp why people bury themselves in debt, you need to study the history of insecurity, greed, and optimism.",
+          "Doing well with money has a little to do with how smart you are and a lot to do with how you behave."
+        ]
+      },
+      {
+        "heading": "1) No One Is Crazy",
+        "points": [
+          "\"Your personal experiences may make up 0.00000001% of what's happened in the world, but maybe 80% of how you think the world works.\""
+        ]
+      },
+      {
+        "heading": "2) Luck & Risk",
+        "points": [
+          "\"If there had been no Lakeside (Chip School), there could have been no Microsoft.\"",
+          "Three Friends: 1) Bill Gates, 2) Paul Allen, 3) Kent Evans — (Computer Knowledge)."
+        ]
+      },
+      {
+        "heading": "3) Never Enough",
+        "points": [
+          "\"There is no reason to risk what you have and need for what you don't have and don't need.\"",
+          "The hardest financial skill is getting the goalpost to stop moving."
+        ]
+      },
+      {
+        "heading": "4) Confounding Compounding",
+        "points": [
+          "Compounding — the hardest financial skill to truly grasp."
+        ]
+      },
+      {
+        "heading": "5) Getting Wealthy vs. Staying Wealthy",
+        "points": [
+          "\"We can't assume that tomorrow will be like yesterday.\"",
+          "We can't afford to rest on our laurels. We can't be complacent.",
+          "Yesterday's success is not guaranteed into tomorrow's good fortune."
+        ]
+      },
+      {
+        "heading": "6) Tails, You Win",
+        "points": [
+          "Assume a Venture Capital Model.",
+          "They expect 80% to fail. They expect to do so reasonably well on a handful and to drive the fund returns.",
+          "3 steps to be financially unbeatable:",
+          "Aim to be financially unbeatable.",
+          "The most important thing: the plan counts — go according to plan.",
+          "Be optimistic about the future."
+        ]
+      },
+      {
+        "heading": "7) Wealth Is Hidden",
+        "points": [
+          "Wealth is hidden — it's what you don't see.",
+          "Wealth is income that is optionally the ability to purchase and growth, stuff if you needed to."
+        ]
+      },
+      {
+        "heading": "8) Save Money — 3 Types of People",
+        "points": [
+          "Type 1: Those who don't save money.",
+          "Type 2: Those who don't think they earn enough to save.",
+          "Type 3: Those who think they need to save."
+        ]
+      },
+      {
+        "heading": "9) Reasonable > Rational",
+        "points": [
+          "Blackjack and poker players know they can deal with probabilities, not certainties.",
+          "Rainy-day funds are a good idea.",
+          "Remember: Past performance is not an indicative of future results."
+        ]
+      },
+      {
+        "heading": "10) You'll Change",
+        "points": [
+          "Long-term plans are really difficult to change.",
+          "Accept the reality — it's very difficult to actually change.",
+          "Sunk cost ≠ not possible."
+        ]
+      },
+      {
+        "heading": "11) The Seduction of Pessimism",
+        "points": [
+          "\"This asymmetry between the power of positive and negative expectations or experiences...\"",
+          "Organisms treat threats as more urgent than opportunities to survive and reproduce."
+        ]
+      },
+      {
+        "heading": "12) Confessions",
+        "points": [
+          "Mainburns — 20% of his cash assets in cash.",
+          "The First Rule of Compounding: Never unnecessarily interrupt it."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "num": "#4",
+    "title": "The Millionaire Next Door",
+    "subtitle": "Thomas J. Stanley",
+    "date": "Nov 29 – Dec 5, 2015",
+    "icon": "🏠",
+    "color": "#C96E8A",
+    "sections": [
+      {
+        "heading": "1) What Makes a Millionaire?",
+        "points": [
+          "These people can not be identified as millionaires.",
+          "They don't look like millionaires. They don't dress like millionaires.",
+          "They don't eat like millionaires. They don't even act like millionaires.",
+          "They don't even have millionaire names.",
+          "\"Those people who are defined as being wealthy get much more substantial pleasure from owning appreciable amounts of assets than from displaying a high-consumption lifestyle.\""
+        ]
+      },
+      {
+        "heading": "2) Budgeting & Control",
+        "points": [
+          "They became millionaires by budgeting and controlling expenses, and they maintain their affluent status the same way.",
+          "Most millionaires had less than 7% of their total wealth as realized income.",
+          "\"Could I live on the equivalent of 7% of my wealth? It takes much discipline to become affluent.\"",
+          "A great goal is to have a minimum of your income available for investment."
+        ]
+      },
+      {
+        "heading": "3) Understanding Spending",
+        "points": [
+          "\"Unless you understand exactly how & where your money is going, it's almost impossible to accumulate wealth.\"",
+          "\"If your goal is to become financially secure, you'll likely attain it. But if your money motive is to make money to spend money on the good life, you're never gonna make it.\""
+        ]
+      },
+      {
+        "heading": "4) Workforce",
+        "points": [
+          "\"A successful business owner needs to love what they do and take pride in going at it alone.\"",
+          "\"To be considered a millionaire, you must be worth $1M US or more.\"",
+          "Millionaires may not seem 'wealthy' from the outside.",
+          "Millionaires learn how to be efficient and responsible with money.",
+          "You need to understand how to plan the spending of your money in order to accumulate true wealth."
+        ]
+      },
+      {
+        "heading": "5) Family Life — Raising Productive Children",
+        "points": [
+          "Providing an excellent education, environment that encourages independence, responsibility, and leadership.",
+          "1) Don't let your children know how wealthy you are.",
+          "2) Always focus on teaching discipline.",
+          "3) Ensure children don't fully understand your wealth until they are mature.",
+          "4) Don't discuss inheritance with your children.",
+          "5) Don't use cash as part of a negotiation, especially with adult children.",
+          "6) Remain removed from your child's family matters.",
+          "7) Never see your children as competition.",
+          "8) Remind yourself that each child is their own independent individual person.",
+          "9) Always acknowledge your children's achievements — don't acknowledge simple symbols of success.",
+          "10) Ensure children understand money. There is more to life than money itself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "num": "#5",
+    "title": "How To Attract Money",
+    "subtitle": "Dr. Joseph Murphy",
+    "date": "Dec 6–20, 2015",
+    "icon": "✨",
+    "color": "#E8C547",
+    "sections": [
+      {
+        "heading": "Core Teaching",
+        "points": [
+          "Every person is here to grow and expand — mentally, spiritually, and materially.",
+          "You deserve to have all the money you need to lead a life of abundance."
+        ]
+      },
+      {
+        "heading": "What You'll Learn",
+        "points": [
+          "1) How to make friends with money.",
+          "2) Develop wealth consciousness.",
+          "3) Reinstate your belief.",
+          "4) Live in abundance.",
+          "5) Change the mindset about money.",
+          "6) Know the pathway of financial success."
+        ]
+      },
+      {
+        "heading": "Your Right to Be Rich",
+        "points": [
+          "You are Right to be Rich. We are on Earth to be happy.",
+          "We should have all the money we need for happiness.",
+          "Right to develop and express. We should be surrounded with beauty and luxury."
+        ]
+      },
+      {
+        "heading": "Why People Don't Have Money",
+        "points": [
+          "They believe \"Lots of Money is the Root of Evil.\"",
+          "Subconscious feeling that poverty is a virtue — this is a Mental Disease.",
+          "If you Don't Have Money, something is radically wrong with you.",
+          "Money constantly changes along with you. Time to Change."
+        ]
+      },
+      {
+        "heading": "Born to Succeed",
+        "points": [
+          "We are Born to succeed. To Win. To Conquer.",
+          "Do not regard money as Guilty or Filthy.",
+          "Some say people Kill for Money. But it's not love of money — it can give you an unbalanced life.",
+          "\"If you are set for money and nothing else — will get money but no balanced life.\""
+        ]
+      },
+      {
+        "heading": "Money, Health & Peace",
+        "points": [
+          "You will be hungry for money, health, peace.",
+          "\"Only love for money — Frustration, Disappointment, Disillusion.\"",
+          "You deserve: Peace of mind, abundance.",
+          "You can have Millions and Peace of Mind together, Perfect Health.",
+          "Money should be used wisely and constructively.",
+          "\"Money is a symbol of God.\"",
+          "When you are healthy it means money is circulating freely in your life."
+        ]
+      },
+      {
+        "heading": "Wealth as State of Consciousness",
+        "points": [
+          "Wealth is state of consciousness.",
+          "Money or wealth is like tide — it goes out but always comes back.",
+          "Relax and immobilize the attention.",
+          "\"Money is forever circulating freely in my life.\""
+        ]
+      },
+      {
+        "heading": "Affirmation Work",
+        "points": [
+          "Mechanical Repetition to Feel Affirmation. Being what you Feel.",
+          "People in financial difficulty don't get results because their subconscious only accepts dominating mood.",
+          "Beginners must affirm until conscious mind agrees with beliefs, feelings, and conviction."
+        ]
+      },
+      {
+        "heading": "Affirmation 1",
+        "points": [
+          "\"The Overshadowing Presence which guides the planets on their course and causes the sin to shine — all my possessions, business and all things that are mine.\"",
+          "We should seek the inner guidance for our own problems."
+        ]
+      },
+      {
+        "heading": "Affirmation 2",
+        "points": [
+          "\"I am growing in wealth and in wisdom everyday.\"",
+          "\"I am advancing and moving forward everyday.\"",
+          "This statement could not create any conflict in mind."
+        ]
+      },
+      {
+        "heading": "Affirmation 3",
+        "points": [
+          "\"Now I shall sleep in peace. I turned this matter over to the Good.\"",
+          "\"I know my answer. As the Sun rises in the morning, the Good answer be resourced.\"",
+          "\"God is my pilot. He leads me, prospers me, and He is my counselor.\""
+        ]
+      },
+      {
+        "heading": "Wealth Consciousness Results",
+        "points": [
+          "Men gets wonderful results by 3 ideas:",
+          "1) Health is a divine result of God.",
+          "2) Wealth is a God; it is Eternal and Endless.",
+          "3) Success is of God — always God's undertakings.",
+          "Repeat many times: Success. Wealth. Health."
+        ]
+      },
+      {
+        "heading": "Mind & Manifestation",
+        "points": [
+          "What we do is the Automatic Response to our mind — feeling and conviction.",
+          "Our External movements, Actions follow Inner movements of the mind.",
+          "Thoughts and Feelings are Outer Actions. Inner Action Precedes All Outer Actions.",
+          "Consciousness of Wealth produces Wealth. Consciousness of Health produces Health."
+        ]
+      },
+      {
+        "heading": "Overcoming Jealousy & Negativity",
+        "points": [
+          "People who talk negatively about wealth usually suffer physical illness.",
+          "Thinking Negative means your own wealth will vanish and fly away.",
+          "Bless the other person and prosper yourself.",
+          "We are never to be jealous and envious of others' success and wealth.",
+          "When someone gets a promotion, be happy. Congratulate them."
+        ]
+      },
+      {
+        "heading": "The Road to Riches",
+        "points": [
+          "The Road to Riches is in the mind.",
+          "A physical diploma is only a symbol — wealth is in the mind.",
+          "Whatever you feel and believe as true will become manifest in your world."
+        ]
+      },
+      {
+        "heading": "Do Not Fight with Your Money",
+        "points": [
+          "Do not fight with your money.",
+          "Think, Feel and Notice your mind with Peace, Success, Happiness, Wealth.",
+          "We must claim wealth — not fight with it."
+        ]
+      },
+      {
+        "heading": "God & Supply",
+        "points": [
+          "\"God is my supply. That supply is my supply.\"",
+          "\"Forever conscious of my talents — boldly I am forever compensated.\"",
+          "\"The feeling of wealth is the product — the state of consciousness.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "num": "#6",
+    "title": "Parable of the Pipeline",
+    "subtitle": "Burke Hedges",
+    "date": "Dec 21–26, 2015",
+    "icon": "🔧",
+    "color": "#47A3E8",
+    "sections": [
+      {
+        "heading": "Importance of Pipeline",
+        "points": [
+          "Residual Income — work once, earn always.",
+          "Pipeline gives money every day, month, and year.",
+          "Becoming a millionaire is not a chance — it's a matter of choice.",
+          "The more pipelines — they are our lifelines.",
+          "Pipeline can give personal and financial freedom and lifelong security."
+        ]
+      },
+      {
+        "heading": "How to Build a Pipeline",
+        "points": [
+          "Dreams and build on today's sacrifices.",
+          "Short-term pain, long-term gain.",
+          "Money stops when the bucket carrying stops.",
+          "Secure job and dream job is an illusion.",
+          "Bucket carrying income is temporary instead of ongoing."
+        ]
+      },
+      {
+        "heading": "Ask Yourself",
+        "points": [
+          "1) What do we do if our income stops tomorrow?",
+          "2) What could happen? Can we get laid off?",
+          "3) How long will we do payments for rent, home, food & EMIs?",
+          "4) What if a medical emergency comes?",
+          "5) Do we have any lifeline?"
+        ]
+      },
+      {
+        "heading": "Pipeline Benefits",
+        "points": [
+          "Pipelines are open 24×7×365.",
+          "Pipeline pays when you: Sleep, Play, Rest, are Sick, Don't work.",
+          "Pipeline doesn't build themselves."
+        ]
+      },
+      {
+        "heading": "Coaching Big Bucket",
+        "points": [
+          "Coaching wealth is not the same as wealth.",
+          "If you make good income and spend each year — baskets don't replenish themselves.",
+          "Key to financial freedom: Adopt a pipeline building mentality and put your pipeline plan in action.",
+          "Wealth is more results of hardwork, perseverance, planning, and self-discipline."
+        ]
+      },
+      {
+        "heading": "Leverage & Doubling",
+        "points": [
+          "Leverage — to make lighter. Time: 1 hr = 100 hr Production.",
+          "People can leverage their time.",
+          "4 out of 5 millionaires build fortune on their own.",
+          "Bigger portion of money is investment → 15 to 20% asset and pipeline building."
+        ]
+      },
+      {
+        "heading": "The Doubling Concept",
+        "points": [
+          "1, 2, 4, 8 — the power of doubling.",
+          "Fact is bad time for everyone — we are all busy and dealing with emergency.",
+          "\"Successful People value their time and seek for opportunity.\"",
+          "There is no such thing as perfect time.",
+          "Today is the best time to build pipeline.",
+          "Not when economy hits — use e-compounding (Internet Pipeline)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "num": "#7",
+    "title": "The Millionaire Fastlane",
+    "subtitle": "MJ DeMarco",
+    "date": "Dec 27, 2015 – Jan 1, 2016",
+    "icon": "🏎️",
+    "color": "#E87347",
+    "sections": [
+      {
+        "heading": "1) The Great Deception",
+        "points": [
+          "Wealth is a process, not an event."
+        ]
+      },
+      {
+        "heading": "2) Roadmaps to Wealth",
+        "points": [
+          "The Sidewalk Roadmap → Poverty.",
+          "The Slowlane Roadmap → Mediocrity.",
+          "The Fastlane Roadmap → Wealth."
+        ]
+      },
+      {
+        "heading": "The Sidewalk — Poverty",
+        "points": [
+          "The Sidewalk is cutoff — your hardwork, your employees cutoff.",
+          "5 days Monday–Friday of work, 2 days of freedom at home."
+        ]
+      },
+      {
+        "heading": "The Slowlane — Mediocrity",
+        "points": [
+          "Suckage 1: Trade time — time suckage sucks.",
+          "Suckage 2: Limitation — no control, pay yourself last.",
+          "Suckage 3: A subscription — limited leverage.",
+          "Time and Money — why you can't afford both.",
+          "The law of victims: You can't be a victim. Don't give up power."
+        ]
+      },
+      {
+        "heading": "The Fastlane — Wealth",
+        "points": [
+          "Build Systems → Build wealth with these systems.",
+          "Computer/Software Systems. Content Systems. Distribution System.",
+          "Human Resource System. Rental Systems."
+        ]
+      },
+      {
+        "heading": "4) The Law of Effection (Scale)",
+        "points": [
+          "\"The more you affect in scale or magnitude, the greater your success.\"",
+          "Impact millions and earn millions.",
+          "Net Profit = Unit Sold (Scale) × Unit Profit (Magnitude).",
+          "Scale and magnitude creates millionaires. Scale creates billionaires."
+        ]
+      },
+      {
+        "heading": "5) The 5 Fastlane Commandments (CENTS)",
+        "points": [
+          "Commandment of Control.",
+          "Commandment of Entry.",
+          "Commandment of Need.",
+          "Commandment of Time.",
+          "Commandment of Scale."
+        ]
+      },
+      {
+        "heading": "The Three Fastlane Interstates",
+        "points": [
+          "Internet. Innovation. International Alteration."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "num": "#8",
+    "title": "The Science of Getting Rich",
+    "subtitle": "Wallace Wattles",
+    "date": "Jan 2–11, 2016",
+    "icon": "🔬",
+    "color": "#4FC3F7",
+    "sections": [
+      {
+        "heading": "1) The Right to Be Rich",
+        "points": [
+          "To be rich, first of all, you should aspire to become rich.",
+          "Then you need to study its science.",
+          "Wealth is not connected with money alone."
+        ]
+      },
+      {
+        "heading": "2) There Is A Science",
+        "points": [
+          "You should first aspire to become rich.",
+          "Special abilities, talents. Wealth is not connected with intelligence."
+        ]
+      },
+      {
+        "heading": "3) Is Opportunity Monopolized?",
+        "points": [
+          "Nature does not prevent or advantage anyone.",
+          "Be it king or beggar, servant or possessor.",
+          "Nature gives everyone equal opportunity to become rich."
+        ]
+      },
+      {
+        "heading": "4) The First Principle",
+        "points": [
+          "To think about new construction without manual labor. It is necessary to believe.",
+          "The human mind has the ability to get desired results through these thoughts.",
+          "Everything is planned from the element of thought.",
+          "Objects are manufactured according to the idea born inside this element."
+        ]
+      },
+      {
+        "heading": "5) Increasing Life",
+        "points": [
+          "God can also help you to be rich too.",
+          "Your good should be to sustain on a physical, mental, and spiritual level.",
+          "You should not become a competitor — be a producer."
+        ]
+      },
+      {
+        "heading": "6) How Riches Come to You",
+        "points": [
+          "All the powers are already within you.",
+          "Anything can be obtained through a strong power.",
+          "Ask — and it will be given. Seek — it will be shown to you.",
+          "Whatever we need for abundance, the work of sending it to us will always be done."
+        ]
+      },
+      {
+        "heading": "7) Gratitude",
+        "points": [
+          "Gratitude is essential to attracting wealth."
+        ]
+      },
+      {
+        "heading": "8) Thinking in the Certain Way",
+        "points": [
+          "\"The deeper your faith, the faster you'll be...\"",
+          "\"If you can't be rich, it's not necessary to study poverty.\"",
+          "\"If you really can't help the poor to become rich, then first you become rich, then help the poor.\""
+        ]
+      },
+      {
+        "heading": "10) Further Use of the Will",
+        "points": [
+          "Take time to learn from good people.",
+          "Stay away from people who give disappointing and useless information.",
+          "Do not count your losses by being stuck in the past.",
+          "Do not expect that everything will be elusive or mysterious."
+        ]
+      },
+      {
+        "heading": "11) Remember",
+        "points": [
+          "\"Discipline will take you where motivation can't.\"",
+          "\"If you have money with skills, it means you are Self-made.\""
+        ]
+      },
+      {
+        "heading": "12) Efficient Action",
+        "points": [
+          "It is not important how much you have done. But how efficiently you have done."
+        ]
+      },
+      {
+        "heading": "14–16) Golden Rules & Concluding",
+        "points": [
+          "Jones's Golden Rules. The Impression of Increase. The Advancing Man.",
+          "Some Cautions and Concluding Observations.",
+          "Abraham Lincoln: \"Weak people seek safety while combining opportunities.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "num": "#9",
+    "title": "I Will Teach You to Be Rich",
+    "subtitle": "Ramit Sethi",
+    "date": "Jan 12–14, 2016",
+    "icon": "📚",
+    "color": "#C9B86E",
+    "sections": [
+      {
+        "heading": "6-Week Program",
+        "points": [
+          "Week 1: Optimising your credit — how to create a system.",
+          "Building good credit is the first step in creating rich."
+        ]
+      },
+      {
+        "heading": "Week 2: Banks — Top Tips",
+        "points": [
+          "Open two top accounts: Saving Account and Cheque Account.",
+          "If your current account has monthly or yearly fees — double check.",
+          "Look out for minimum amounts and transactional fees."
+        ]
+      },
+      {
+        "heading": "Weeks 3–6",
+        "points": [
+          "Week 3: Investing. Week 4: Conscious Save.",
+          "Week 5: Financial Expertise Myths. Week 6: continued."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "num": "#10",
+    "title": "Secrets of the Millionaire Mind",
+    "subtitle": "T. Harv Eker",
+    "date": "Jan 15–23, 2016",
+    "icon": "🔑",
+    "color": "#E84747",
+    "sections": [
+      {
+        "heading": "Your Money Blueprint",
+        "points": [
+          "\"If your subconscious financial blueprint is not set for success, nothing you learn, nothing you know, nothing you do will make a difference.\"",
+          "Toolbox is your mind — your copy of information.",
+          "Everybody can succeed at the game of money."
+        ]
+      },
+      {
+        "heading": "Self-Assessment",
+        "points": [
+          "Who are you? How do you think?",
+          "What are your habits and traits?",
+          "How confident are you? Do you really feel that you deserve wealth?",
+          "What are your capabilities?",
+          "Can you act when you're not in the mood?"
+        ]
+      },
+      {
+        "heading": "Cause & Effect",
+        "points": [
+          "We live in a world of cause and effect.",
+          "Money, health, happiness — day you have, results at you.",
+          "Problem is not the symptom of money.",
+          "Lack of money is never a problem — it's a symptom."
+        ]
+      },
+      {
+        "heading": "Modelling — Your Money Origins",
+        "points": [
+          "What did you see when you saw money? How did your parents handle money?",
+          "How did money flow in your family? Was it the cause of bitter arguments?"
+        ]
+      },
+      {
+        "heading": "Wealth Files #1–#6",
+        "points": [
+          "#1: Rich people believe \"I create my life.\" Poor people believe \"life happens to me.\"",
+          "#2: Rich people play the money game to win. Poor people play to not lose.",
+          "#3: Rich people are committed to being rich. Poor people count on being rich.",
+          "#4: Rich people think big. Poor people think small.",
+          "#5: Rich people focus on opportunities. Poor people focus on obstacles.",
+          "#6: Rich people admire other rich people. Poor people resent them."
+        ]
+      },
+      {
+        "heading": "Wealth Files #7–#12",
+        "points": [
+          "#7: Rich people associate with successful people.",
+          "#8: Rich people are willing to promote themselves and value.",
+          "#9: Rich people are bigger than their problems.",
+          "#10: Rich people are excellent achievers.",
+          "#11: Rich people choose to get paid based on results.",
+          "#12: Rich people think both. Poor people think either/or."
+        ]
+      },
+      {
+        "heading": "Wealth Files #13–#17",
+        "points": [
+          "#13: Rich people focus on net worth. Poor focus on working income.",
+          "#14: Rich people manage their money well.",
+          "#15: Rich people have money work hard for them.",
+          "#16: Rich people act in spite of fear.",
+          "#17: Rich people constantly learn and grow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "num": "#11",
+    "title": "The Richest Man in Babylon",
+    "subtitle": "George S. Clason",
+    "date": "Jan 24–30, 2016",
+    "icon": "🏛️",
+    "color": "#D4AF37",
+    "sections": [
+      {
+        "heading": "Seven Cures for a Lean Purse",
+        "points": [
+          "1) Start thy purse to fattening — save at least 10%.",
+          "2) Control thy expenditures.",
+          "3) Make thy gold multiply.",
+          "4) Guard thy treasures from loss.",
+          "5) Make of thy dwelling a profitable investment.",
+          "6) Ensure a future income.",
+          "7) Increase thy ability to earn."
+        ]
+      },
+      {
+        "heading": "Babylon — Context",
+        "points": [
+          "Babylon's arches were self-made.",
+          "The first people to have a written language.",
+          "The first astronomers. The first mathematicians."
+        ]
+      },
+      {
+        "heading": "The Man Who Desired Gold",
+        "points": [
+          "Important to learn from those who have experience.",
+          "Take advice only from those who are experienced.",
+          "Take advantage of compounding.",
+          "Study: 2 kinds of learning — free time and put time to use."
+        ]
+      },
+      {
+        "heading": "Good Luck & Opportunity",
+        "points": [
+          "Good luck comes to those who accept opportunities — not procrastinate.",
+          "The desire to be lucky is absolutely universal.",
+          "To attract good luck, a person must take advantage of every opportunity."
+        ]
+      },
+      {
+        "heading": "The Gold Lenders",
+        "points": [
+          "\"A better a little caution than a great regret.\"",
+          "\"Security is something that must be planned in advance.\"",
+          "Experienced many battles — defence walls must be up to the task."
+        ]
+      },
+      {
+        "heading": "The Camel Trader of Babylon",
+        "points": [
+          "The clay tablets from Babylon — 5 secrets to wealth are discovered.",
+          "Saving one-tenth of all your earnings.",
+          "Made a list of all of your earnings."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "num": "#12",
+    "title": "20 Best Habits of Rich People",
+    "date": "Jan 31, 2016",
+    "icon": "🏆",
+    "color": "#FFD700",
+    "sections": [
+      {
+        "heading": "20 Habits",
+        "points": [
+          "1) Rich people wake up early.",
+          "2) Rich people don't check messages & email in morning.",
+          "3) Rich people eat healthy.",
+          "4) Rich people exercise regularly.",
+          "5) Rich people do budgeting.",
+          "6) Rich people write down goals.",
+          "7) Rich people keep a daily to-do list.",
+          "8) Rich people believe time is money.",
+          "9) Rich people take long lunch.",
+          "10) Rich people read a lot.",
+          "11) Rich people network with other rich people.",
+          "12) Rich people know when to stop working.",
+          "13) Rich people avoid television.",
+          "14) Rich people listen more and talk less.",
+          "15) Rich people don't retire.",
+          "16) Rich people avoid gambling.",
+          "17) Rich people avoid delay.",
+          "18) Rich people don't give up.",
+          "19) Rich people choose a mentor.",
+          "20) Rich people eliminate \"bad luck\" from vocabulary."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "num": "#13",
+    "title": "The Strangest Secret",
+    "subtitle": "Earl Nightingale",
+    "date": "Feb 2, 2016",
+    "icon": "🎙️",
+    "color": "#FF7043",
+    "sections": [
+      {
+        "heading": "Core Teachings",
+        "points": [
+          "Right to be Rich. Thinking Rich in the certain way.",
+          "How riches come to you. Acting in the certain way."
+        ]
+      },
+      {
+        "heading": "30-Day Challenge",
+        "points": [
+          "\"Ask, and you will get answers. Search, and you will find. Knock, and the door will open.\"",
+          "30 Days of gratitude challenge."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "num": "#14",
+    "title": "7 Habits of Billionaires",
+    "date": "Feb 3, 2016",
+    "icon": "💎",
+    "color": "#B388FF",
+    "sections": [
+      {
+        "heading": "7 Billionaire Habits",
+        "points": [
+          "01) Billionaire meditate daily.",
+          "02) Billionaire wake up early.",
+          "03) Billionaire start early.",
+          "04) Billionaire keep healthy.",
+          "05) Billionaire read daily.",
+          "06) Billionaire practice discipline.",
+          "07) Billionaire don't take \"No\" for an answer."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "num": "#15",
+    "title": "20 Life-Changing Teachings of Gautam Buddha",
+    "date": "Feb 4–9, 2016",
+    "icon": "☸️",
+    "color": "#FF9F43",
+    "sections": [
+      {
+        "heading": "Teachings 1–10",
+        "points": [
+          "1) When you like a flower, you pluck it. When you love a flower, you water it daily.",
+          "2) Things cannot be hidden long: the sun, the moon, and the truth.",
+          "3) There is no path to happiness — Happiness is the path.",
+          "4) An evil friend is more to be feared than a wild beast.",
+          "5) Happiness is the path to enlightenment.",
+          "6) In the sky, there is no distinction of east and west. People create distinctions out of their own minds.",
+          "7) You will not be punished for your anger. You will be punished by your anger.",
+          "8) We are shaped by our thoughts. When the mind is pure, joy follows like a shadow.",
+          "9) Unless it agrees with your own reason and common sense — question everything.",
+          "10) You only lose what you cling to."
+        ]
+      },
+      {
+        "heading": "Teachings 11–19",
+        "points": [
+          "11) No one saves us but ourselves. We ourselves must walk the path.",
+          "12) The root of suffering is attachment.",
+          "13) Do not delay, lest you later regret it.",
+          "14) Even death is not to be feared by one who has lived wisely.",
+          "15) The habit of doubt separates people and breaks relationships.",
+          "16) It is better to travel well than to arrive.",
+          "17) Physical charms attract the mind; goodness attracts the eyes.",
+          "18) Nobody is more deserving of your love than yourself.",
+          "19) Control your mind — or it will control you."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "num": "#16",
+    "title": "Ego Is The Enemy",
+    "subtitle": "Ryan Holiday",
+    "date": "Feb 10–14, 2016",
+    "icon": "⚔️",
+    "color": "#E74C3C",
+    "sections": [
+      {
+        "heading": "Symptoms & Curing the Ego",
+        "points": [
+          "Humility and Reality — cure of the ego.",
+          "The only relationship: one kills and the other dies."
+        ]
+      },
+      {
+        "heading": "Your Ego Carves the Path",
+        "points": [
+          "Clear the path for other people above you.",
+          "Pride is a dangerous concept.",
+          "Pride makes small achievements feel larger than they are."
+        ]
+      },
+      {
+        "heading": "Success",
+        "points": [
+          "Sobriety. Open-mindedness. Organization. Purpose.",
+          "Always stay a student."
+        ]
+      },
+      {
+        "heading": "But What If I Fail?",
+        "points": [
+          "Adversity. Difficulty. Failure.",
+          "The key: Purpose, Poise, Patience.",
+          "Failure is inevitable. Make it a priority to enable others to look good.",
+          "Don't focus only on passion."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "num": "#17",
+    "title": "The 5 Levels of Leadership",
+    "subtitle": "John C. Maxwell",
+    "date": "Feb 15–24, 2016",
+    "icon": "📊",
+    "color": "#3498DB",
+    "sections": [
+      {
+        "heading": "Key Insights About Levels",
+        "points": [
+          "1) When you move up a level, you build on the previous level.",
+          "2) Leadership is dynamic. 3) The higher you go, the greater the return.",
+          "4) There is no shortcut. 5) Pruning down can happen quickly.",
+          "6) Moving up requires growth. 7) Not getting up only limits you.",
+          "8) Changing organizations resets your level. 9) You cannot climb alone."
+        ]
+      },
+      {
+        "heading": "Level 1 — Position",
+        "points": [
+          "People follow because they have to.",
+          "Don't push people — pay attention and tutor. Commit. Navigate."
+        ]
+      },
+      {
+        "heading": "Level 2 — Permission",
+        "points": [
+          "People follow because they want to. They feel liked, valued, trusted.",
+          "People value and respect each other = easy communication.",
+          "Influence: The true measure of leadership — add value by serving."
+        ]
+      },
+      {
+        "heading": "Level 3 — Production",
+        "points": [
+          "Credibility increases when you deliver results.",
+          "Your results set a standard. Delivering results builds momentum.",
+          "Never lose sight that results are your goal.",
+          "Momentum is your best friend. Find a way for your team to win."
+        ]
+      },
+      {
+        "heading": "Level 4 — People Development",
+        "points": [
+          "Focus on growing your people. Empowering them.",
+          "Recruit only the best into bigger positions.",
+          "Coach others so they succeed. Leadership is a process.",
+          "Empowerment: Secure leaders calling to give power to others."
+        ]
+      },
+      {
+        "heading": "Level 5 — Pinnacle",
+        "points": [
+          "Creates a Level 5 organization with reach. You will create a legacy.",
+          "Always remain humble to learning. Focus on the vision.",
+          "Create an inner circle to keep you grounded.",
+          "Legacy will be measured by your successors."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "num": "#18",
+    "title": "Stillness Is The Key",
+    "subtitle": "Ryan Holiday",
+    "date": "Feb 25–Mar 1, 2016",
+    "icon": "🧘",
+    "color": "#1ABC9C",
+    "sections": [
+      {
+        "heading": "What Is Stillness?",
+        "points": [
+          "Stillness is to be steady.",
+          "If you've poured all training into a single decisive moment — that's stillness.",
+          "\"If you've walked out at night on a quiet street, content of being alive — that's stillness too.\""
+        ]
+      },
+      {
+        "heading": "Domain 1: The Mind",
+        "points": [
+          "Be fully present. Empty your mind of preconceptions.",
+          "Reject distraction. Become deliberate without being paralyzed.",
+          "Limit your inputs. Study and journaling.",
+          "Find confidence. Seek wisdom. Cultivate silence."
+        ]
+      },
+      {
+        "heading": "Domain 2: The Soul",
+        "points": [
+          "Build a strong moral compass. Steer clear of envy and jealousy.",
+          "Come to terms with the painful childhood.",
+          "Positive gratitude and appreciation for all.",
+          "Cultivate relationships. Place belief in something larger.",
+          "\"Enough\" is a beautiful desire.",
+          "Bath in higher beauty. Accept. Enter a relationship. Conquer your anger."
+        ]
+      },
+      {
+        "heading": "Domain 3: The Body",
+        "points": [
+          "Rise above your physical limitations.",
+          "Develop a reliable, disciplined routine.",
+          "Spend time getting out and active outdoors.",
+          "Get rid of your stuff. Seek solitude. Go to sleep. Find a hobby.",
+          "\"Stillness means to be steady while the world spins around you.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "num": "#19",
+    "title": "The Obstacle Is The Way",
+    "subtitle": "Ryan Holiday",
+    "date": "Mar 1–4, 2016",
+    "icon": "🧱",
+    "color": "#E67E22",
+    "sections": [
+      {
+        "heading": "3 Parts",
+        "points": [
+          "This book is divided into 3 parts: 1) Perception, 2) Action, 3) Will."
+        ]
+      },
+      {
+        "heading": "1) Perception",
+        "points": [
+          "Remain objective. Control your emotions.",
+          "See the good in situations. Calm your nerves.",
+          "Only focus on things within your control. Be in the present.",
+          "Our perceptions can be a source of great weakness or great strength."
+        ]
+      },
+      {
+        "heading": "2) Action",
+        "points": [
+          "Discipline. Get moving. Be persistent.",
+          "Follow the process. Do your job and do it right.",
+          "Use the obstacle. Channel your energy. Be adaptable."
+        ]
+      },
+      {
+        "heading": "3) Will",
+        "points": [
+          "Patience. Practice. Anticipation. Robust & Resilient.",
+          "\"You're robust enough to handle whatever occurs.\"",
+          "\"It shall only be a negligible blip on the way to your goal.\"",
+          "Love to all. Perseverance. It's not all about you.",
+          "\"Practice patience — the obstacle is the way.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "num": "#20",
+    "title": "Ask and It Is Given",
+    "subtitle": "Esther & Jerry Hicks",
+    "date": "Mar 5–7, 2016",
+    "icon": "🙏",
+    "color": "#9B59B6",
+    "sections": [
+      {
+        "heading": "Law of Attraction — Core",
+        "points": [
+          "\"Nothing happens until something moves.\"",
+          "Tell yourself: I desire this. I adore this. I appreciate this.",
+          "Anything you give your attention to will become your truth.",
+          "The law of attraction says it must.",
+          "Your most sophisticated vibrational interpreters: your emotions.",
+          "Emotions range from courage to pessimism, insecurity to depression."
+        ]
+      },
+      {
+        "heading": "9 Core Processes",
+        "points": [
+          "1) Appreciation process. 2) Magical Creation Box. 3) Creative Workshop.",
+          "4) Scripting Process. 5) Place Mat Process."
+        ]
+      },
+      {
+        "heading": "6) Removing the Clutter",
+        "points": [
+          "\"If surrounded by unfinished work, unanswered letters, incomplete projects — they negatively affect your life.\""
+        ]
+      },
+      {
+        "heading": "7–9) Wallet Process & Emotional Scale",
+        "points": [
+          "Finding the feeling place. Finding the feeling that actually you attract.",
+          "Moving up the emotional scale progressively."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "num": "#21",
+    "title": "Think Like a Monk",
+    "subtitle": "Jay Shetty",
+    "date": "Mar 8–9, 2016",
+    "icon": "🪷",
+    "color": "#F39C12",
+    "sections": [
+      {
+        "heading": "1) Find Your True Identity",
+        "points": [
+          "Self Audit. Find your true value."
+        ]
+      },
+      {
+        "heading": "2) Remove Negativity — 3 Methods",
+        "points": [
+          "Method 1: Allocate time — set time for specific people.",
+          "Method 2: 75/25 Rule — 75% positive, 25% or less with negativity.",
+          "Method 3: 1 hr Rule."
+        ]
+      },
+      {
+        "heading": "3) SPOT-STOP-SWAP",
+        "points": [
+          "1 = SPOT — identify the feeling.",
+          "2 = STOP — pause and find your feelings.",
+          "3 = SWAP — replace with gratitude."
+        ]
+      },
+      {
+        "heading": "Know Your Intention",
+        "points": [
+          "Whether it is: a) Fear, b) Desire, c) Duty, or d) Love."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "num": "#22",
+    "title": "The Monk Who Sold His Ferrari — Seven Virtues",
+    "subtitle": "Robin Sharma",
+    "date": "Mar 11–15, 2016",
+    "icon": "🌟",
+    "color": "#2ECC71",
+    "sections": [
+      {
+        "heading": "7 Virtues Overview",
+        "points": [
+          "Virtue 1: Master Your Mind. Virtue 2: Follow Your Purpose.",
+          "Virtue 3: Practice Kaizen. Virtue 4: Power of Discipline.",
+          "Virtue 5: Respect Your Time. Virtue 6: Selflessly Serve Others.",
+          "Virtue 7: Embrace the Present."
+        ]
+      },
+      {
+        "heading": "Ten Ancient Rituals for Radiant Living",
+        "points": [
+          "1) Ritual of Solitude: 15–60 minutes in silence daily.",
+          "2) Ritual of Physicality: Exercise vigorously daily.",
+          "3) Ritual of Live Nourishment: Fresh fruits, vegetables, and grains.",
+          "4) Ritual of Abundant Knowledge: Read 30+ minutes daily.",
+          "5) Ritual of Personal Reflection: Review each day.",
+          "6) Ritual of Early Awakening: Rise as soon as the sun is rising.",
+          "7) Ritual of Music: Music can be one of the best motivators.",
+          "8) Ritual of the Spoken Word: Positive self-talk.",
+          "9) Ritual of Congruent Character: Habits form character, character determines destiny.",
+          "10) Ritual of Simplicity: Live simple, be content with less."
+        ]
+      },
+      {
+        "heading": "Virtue 6 — Serve Others",
+        "points": [
+          "\"There is always a little fragrance remaining in the hand of those who give flowers to others.\""
+        ]
+      },
+      {
+        "heading": "Virtue 7 — Embrace Present",
+        "points": [
+          "Live in the \"Now.\" Savor the gift of the present.",
+          "Never sacrifice happiness for achievement."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "num": "#23",
+    "title": "Six Principles of Vedic Management",
+    "subtitle": "Chanakya Niti",
+    "date": "Mar 16–17, 2016",
+    "icon": "📿",
+    "color": "#8E44AD",
+    "sections": [
+      {
+        "heading": "Six Principles",
+        "points": [
+          "1) Vasudhakal Kutumbakam: The whole world is one family.",
+          "2) Samnarpan Bhav — Dedication: Welfare of all beings.",
+          "3) Shubh Labh — Ethical Profits.",
+          "4) Nishkarma Karma — Deeds without greed.",
+          "5) Anti-Hypocrisy — Shunning extremes.",
+          "6) Art of Giving."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "num": "#24",
+    "title": "Rework",
+    "subtitle": "David Hansson & Jason Fried",
+    "date": "Mar 18–29, 2016",
+    "icon": "🔨",
+    "color": "#E74C3C",
+    "sections": [
+      {
+        "heading": "Overview",
+        "points": [
+          "Topics: Excuses, Money, Progress, Productivity, Competition, Culture."
+        ]
+      },
+      {
+        "heading": "1) Failure & Growth",
+        "points": [
+          "Learn from mistakes.",
+          "\"Those who have already had success are more likely to succeed again.\"",
+          "\"Those who have failed — only 23% chance of success.\""
+        ]
+      },
+      {
+        "heading": "2) Getting Started",
+        "points": [
+          "Make targets, not a startup.",
+          "Make your unique product — something no one else can offer.",
+          "Instead of trying ten different things — stick to it."
+        ]
+      },
+      {
+        "heading": "3) Consider Resources",
+        "points": [
+          "Remember: Less is More.",
+          "\"When you start anything, forces pull you in many directions.\"",
+          "Start at this point."
+        ]
+      },
+      {
+        "heading": "4) Be Productive",
+        "points": [
+          "Interruptions are the enemy of productivity.",
+          "Stick to a timeframe. Once time is up, leave meetings."
+        ]
+      },
+      {
+        "heading": "5) Meeting Management",
+        "points": [
+          "Open with a clear solution. Find the aim — a specific problem.",
+          "End with closure and next steps."
+        ]
+      },
+      {
+        "heading": "6–7) Competition & Hiring",
+        "points": [
+          "Eliminate competition. Make your product unique.",
+          "First hire yourself before hiring others. Keep needs small.",
+          "Don't demand years of experience. Communication is key."
+        ]
+      },
+      {
+        "heading": "Punching Words from the Author",
+        "points": [
+          "\"If you count to do it — it's right now.\"",
+          "Say No. Meetings are poison. ASAP is poison.",
+          "Inspiration is perishable. Don't be a hero."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "num": "#25",
+    "title": "Work Smart Techniques",
+    "date": "Mar 30 – Apr 2, 2016",
+    "icon": "⏱️",
+    "color": "#16A085",
+    "sections": [
+      {
+        "heading": "1) Mindset First",
+        "points": [
+          "Proper mindset. Physical activity. Optimism. Nutrition. Enough sleep.",
+          "Wake up 15 minutes earlier every day for 3–4 days."
+        ]
+      },
+      {
+        "heading": "2) The Pomodoro Technique",
+        "points": [
+          "25 min work, 5 min break × 4 cycles. Then 10–15 min break."
+        ]
+      },
+      {
+        "heading": "3) Avoid Distractions",
+        "points": [
+          "Communication tools. People. Internal distractions."
+        ]
+      },
+      {
+        "heading": "4–6) Planning, Meetings, Batching",
+        "points": [
+          "Ask: Do you need to be at this meeting? Is it necessary?",
+          "Don't check emails first thing. Most important task first.",
+          "Close emails when not using them."
+        ]
+      },
+      {
+        "heading": "7–12) Additional Techniques",
+        "points": [
+          "Delegation. Energizing breaks. Checklist: Read-Do.",
+          "Re-Holiday / De-commit. Controlling your world."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "num": "#26",
+    "title": "Digital Minimalism",
+    "date": "Apr 3, 2016",
+    "icon": "📱",
+    "color": "#2C3E50",
+    "sections": [
+      {
+        "heading": "Key Questions",
+        "points": [
+          "Ask before installing: Does this technology add value?",
+          "How can I use this technology?",
+          "Is it not harmless for me?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "num": "#27",
+    "title": "The Dhandho Investor",
+    "subtitle": "Mohnish Pabrai",
+    "date": "Apr 4, 2016",
+    "icon": "🎯",
+    "color": "#27AE60",
+    "sections": [
+      {
+        "heading": "9 Rules to Invest",
+        "points": [
+          "1) Invest in existing business. 2) Invest in simple business.",
+          "3) Invest in distressed business in distressed industries.",
+          "4) Budget like rich people. 5) Few bets, big bets, infrequent bets.",
+          "6) Fixate on arbitrage. 7) Margin of safety — always.",
+          "8) Invest in low risk, high-uncertainty business.",
+          "9) Invest in copycats rather than innovators."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "num": "#28",
+    "title": "Dhanachya — How Guivarh Do Business",
+    "subtitle": "Shubhu Bandhe",
+    "date": "Apr 5–6, 2016",
+    "icon": "💎",
+    "color": "#F1C40F",
+    "sections": [
+      {
+        "heading": "10 Lessons",
+        "points": [
+          "1) Always ask. 2) Calculated risks. 3) Values are important.",
+          "4) No work is small. 5) Trust. 6) Act today — no tomorrow.",
+          "7) Save more. 8) Believe in God. 9) Avoid criminal ways — work ethic.",
+          "10) Hardwork, perseverance, patience. Give back."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "num": "#29",
+    "title": "Life's Amazing Secrets",
+    "subtitle": "Gaur Gopal Das",
+    "date": "Apr 8–17, 2016",
+    "icon": "🌈",
+    "color": "#E91E63",
+    "sections": [
+      {
+        "heading": "Core Framework — 4 Wheels",
+        "points": [
+          "Secret of life is finding balance:",
+          "1) Work life, 2) Social contribution, 3) Personal life, 4) Relationships."
+        ]
+      },
+      {
+        "heading": "1) Personal Life — Gratitude",
+        "points": [
+          "Live by principle of gratitude. Gratitude is state of mind.",
+          "Grateful people are happy people.",
+          "3 Connections: Outside ourselves, Inside ourselves, God — Meditation."
+        ]
+      },
+      {
+        "heading": "2) Relationships",
+        "points": [
+          "Don't judge others. Respect others. Be attentive.",
+          "\"Am I the right person to give feedback? Is it the right way? The right time?\"",
+          "Only you can control 'motives' in your life."
+        ]
+      },
+      {
+        "heading": "3) Work Life — IKIGAI",
+        "points": [
+          "What are we good at? What can we be paid for?",
+          "What does the world need? What we love — IKIGAI."
+        ]
+      },
+      {
+        "heading": "4) Social Contribution — Sacrifice",
+        "points": [
+          "Help others before yourself. Family first. Serve first.",
+          "Right action. Right intention. Right mood.",
+          "Spirituality helps develop good character."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "num": "#30",
+    "title": "Business School",
+    "subtitle": "Robert T. Kiyosaki",
+    "date": "Apr 18–26, 2016",
+    "icon": "🎓",
+    "color": "#00BCD4",
+    "sections": [
+      {
+        "heading": "Core Teaching",
+        "points": [
+          "Building network makes rich people. Understand the power of network."
+        ]
+      },
+      {
+        "heading": "Types of Education",
+        "points": [
+          "1) Scholastic — reading, counting, maths.",
+          "2) Professional — trades and professions.",
+          "3) Financial — how money works."
+        ]
+      },
+      {
+        "heading": "Ways to Become Rich",
+        "points": [
+          "1) By attracting rich businessmen. 2) By doing smart handwork.",
+          "3) By teaching. 4) By building business.",
+          "5) By building the luck. 6) By network marketing."
+        ]
+      },
+      {
+        "heading": "The ESBI Quadrant",
+        "points": [
+          "E = Employee. S = Self-employed. B = Business. I = Investor.",
+          "Self-employed = you have a job that works for you.",
+          "Business owner = your system works for your business.",
+          "They don't work for money — money works for them.",
+          "Different mindsets. Different values."
+        ]
+      },
+      {
+        "heading": "Values of Network Marketing",
+        "points": [
+          "Value #1: Life-changing opportunity.",
+          "Value #2: Friends who push you up, not down.",
+          "Value #3: Security — safe and secure.",
+          "Independence — they want freedom. They are financially free."
+        ]
+      },
+      {
+        "heading": "Value #4–#6: Growth & Leadership",
+        "points": [
+          "Value #4: What is the value of network? Keep your mind open exponentially.",
+          "Value #5: Developing your most important business skill — the ability to sell.",
+          "No. 1 Business skill: Selling. \"In a quick font\" — the ability to sell.",
+          "Politicians & best teachers are best sales people.",
+          "If you want to buy, you have to sell.",
+          "\"More we sell — more we'll buy.\"",
+          "People who have fear from rejection — they can't sell.",
+          "Value #6: Leadership — not coaching for money.",
+          "Health & Wealth, always controlled by time."
+        ]
+      },
+      {
+        "heading": "Value #7–#9: Dreams & Network",
+        "points": [
+          "Value #7: Most successful people rejected many times.",
+          "Rejection & education & acceleration.",
+          "Cloak to be wealthy? Want to be money that comes from assets.",
+          "Emotional intelligence is more important for financial intelligence.",
+          "Value #8: Living your dreams.",
+          "Becoming rich is not important. The person can become that's important.",
+          "Value #9: Marriage & knowledge — working together as per their schedule.",
+          "This industry support family a lot.",
+          "Couples are more successful & learn together.",
+          "\"Network Marketing — becoming essential, once it's on & learn to get then.\""
+        ]
+      },
+      {
+        "heading": "Value #10: The Family Benefits",
+        "points": [
+          "1) You can start on less cash.",
+          "2) No formal education or degree required.",
+          "3) Gender, age & race — open to everybody.",
+          "4) Company gives you an established & successful system.",
+          "5) Some companies provide business — use to build your business.",
+          "6) Trainings & education — successful members who support your journey.",
+          "You can build your business together."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "num": "#31",
+    "title": "Rich Dad Poor Dad",
+    "subtitle": "Robert T. Kiyosaki",
+    "date": "Apr 27 – May 8, 2016",
+    "icon": "💵",
+    "color": "#4CAF50",
+    "sections": [
+      {
+        "heading": "Core Premise",
+        "points": [
+          "Never taught valuable lessons about money in schools.",
+          "School focuses on scholastic & professional skills — not financial skills.",
+          "Let's understand Rich Dad and Poor Dad.",
+          "Traditional working: Hard working, like saving money, don't buy anything.",
+          "\"The love of money is the root of all evil.\" — Poor Dad thinking.",
+          "\"The lack of money is the root of all evil.\" — Rich Dad thinking."
+        ]
+      },
+      {
+        "heading": "Lesson 1: Rich Don't Work for Money",
+        "points": [
+          "He is fortunate in having had two fathers.",
+          "Both fathers had opposite approaches to money.",
+          "Common sense approach to the subject of money.",
+          "Rich build assets. Poor build liabilities.",
+          "\"The most important subject of your life.\"",
+          "First lesson: Get out of the rat race.",
+          "Poor & middle class work for money. Rich have money work for them.",
+          "Only rich people create opportunities — and turn them into gold."
+        ]
+      },
+      {
+        "heading": "Lesson 2: Financial Literacy",
+        "points": [
+          "The best thing about money: it works 24 hours a day.",
+          "If you coach for money, you give power to your employer.",
+          "3) Why teach financial literacy — only rule: help build foundation.",
+          "Only control assets.",
+          "\"Intelligence solves problems. Money without financial intelligence is money soon gone.\"",
+          "Financial literacy begins with: Coworking & Accounting."
+        ]
+      },
+      {
+        "heading": "Lesson 3: Mind Your Own Business",
+        "points": [
+          "Rich people focus on their business and assets.",
+          "Other people focus only on income.",
+          "Find out easy: become your own boss. Nurture your own business.",
+          "Assets: Stocks, Bonds, Income-generating real estate, Notes, Intellectual property royalties."
+        ]
+      },
+      {
+        "heading": "Lesson 4: History of Taxes & Corporations",
+        "points": [
+          "5) The history and power of corporations.",
+          "Have knowledge to use the power of corporations.",
+          "Develop financial IQ: Accounting, Financial law, Investing, Markets & law knowledge."
+        ]
+      },
+      {
+        "heading": "Lesson 5: Rich Invent Money",
+        "points": [
+          "Bold person in the real world.",
+          "Not necessary to become educated — necessary to become successful.",
+          "Create opportunities with your eyes and your mind.",
+          "By using knowledge of intelligent people, can increase income.",
+          "Hire intelligent people.",
+          "Management skills: Push Success, Cash Flow, Systems, People.",
+          "\"Helps us in selling & marketing skills.\""
+        ]
+      },
+      {
+        "heading": "Lesson 6: Overcoming Obstacles",
+        "points": [
+          "Fear. Cynicism. Laziness. Bad Habits. Arrogance.",
+          "The pain of losing money is far from being rich.",
+          "Fear is normal — important is how you handle it."
+        ]
+      },
+      {
+        "heading": "Getting Started — Tips to Create Wealth",
+        "points": [
+          "Find a reason greater than reality — power of spirit.",
+          "Study one field, then learn another.",
+          "Choose friends carefully. Spend time with people who talk about money.",
+          "People must have a purpose of living.",
+          "Study one hero in life and make things easy.",
+          "They inspire us to be like them.",
+          "Teach and you shall receive.",
+          "10) Stop doing what is not working.",
+          "Be generous with what you have.",
+          "Achieve your financial freedom."
+        ]
+      },
+      {
+        "heading": "Key Contrasts: Rich vs. Poor Dad",
+        "points": [
+          "\"If you can coach for money, give the power to your employee.\"",
+          "\"It money works for you — keep the power.\"",
+          "\"Don't be wise with your money — rather be smart with your money.\"",
+          "Only control assets. Sharing foundation & sharing.",
+          "How much money you keep matters more than how much you make."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "num": "#32",
+    "title": "Awaken the Giant Within",
+    "subtitle": "Tony Robbins",
+    "date": "May 9–22, 2016",
+    "icon": "🦁",
+    "color": "#FF5722",
+    "sections": [
+      {
+        "heading": "Chapter 1: Dreams of Destiny",
+        "points": [
+          "Everyone has something to learn from him — no matter what stage we are.",
+          "\"Raise your standards.\"",
+          "\"When you raise 'I should' to 'I must' — change yourself.\"",
+          "Change what you demand of yourself.",
+          "Write down a list: You'll become no longer tolerable. You aspire to become."
+        ]
+      },
+      {
+        "heading": "Types of Mastery",
+        "points": [
+          "Emotional Mastery. Physical Mastery. Relationship Mastery.",
+          "Financial Mastery. Time Mastery."
+        ]
+      },
+      {
+        "heading": "Chapter 2: Decisions Shape Destiny",
+        "points": [
+          "Decision plays a vital role in our lives.",
+          "Good decisions make us more & more decisions.",
+          "We learn from the mother of skills — repetition is the mother of skills.",
+          "If you truly decide: You can do anything.",
+          "\"What things mean to you? What to do to create the results?\"",
+          "3 decisions that control your destiny."
+        ]
+      },
+      {
+        "heading": "Chapter 3: The Force That Shapes Your Life",
+        "points": [
+          "Emotions & sensations linked to our own thoughts.",
+          "\"Whatever we do — need to avoid pain or desire to gain pleasure.\"",
+          "The secret of success is learning how to use pain & pleasure.",
+          "Fear of loss is much greater than the desire for gain.",
+          "\"If you are in control of your life, you're in control. If you don't — it controls you.\"",
+          "\"What you link pain & pleasure to — that's your destiny.\""
+        ]
+      },
+      {
+        "heading": "Chapter 4: Belief System",
+        "points": [
+          "A limited belief system.",
+          "Q: Empowering belief — if you want to move ahead in life.",
+          "Cut & eliminate old limited beliefs.",
+          "Belief has the power to create and the power to destroy.",
+          "It can make us sick & healthy.",
+          "They affect our immune system."
+        ]
+      },
+      {
+        "heading": "Chapter 5: Change Can Happen In An Instant",
+        "points": [
+          "Once we adopt change — difficult to maintain that change for a long time.",
+          "How to change anything in your life:",
+          "Step 1: Decide what you really want.",
+          "Step 2: Get leverage — change is a question of motivation, not ability.",
+          "Step 3: Interrupt the limiting pattern. We can't do the same thing.",
+          "Step 4: Create a new empowering alternative.",
+          "Step 5: Condition the new pattern — making it consistent.",
+          "Step 6: Test it."
+        ]
+      },
+      {
+        "heading": "Chapter 6: How to Get What You Really Want",
+        "points": [
+          "People don't know what they really want.",
+          "\"Your behaviour is not the result. What they count — not what they want.\"",
+          "Every emotion is physiology linked.",
+          "Posture. Breathing. Facial expressions.",
+          "The master tool of your body: Your emotions.",
+          "\"By modifying your emotions is created by your body.\""
+        ]
+      },
+      {
+        "heading": "Chapter 7: Questions Are The Answers",
+        "points": [
+          "If we coach: to change the quality of life, change the habitual questions.",
+          "Successful people asked better questions — the quality of questions.",
+          "\"The quality of questions you don't ask — also shape your destiny.\"",
+          "\"What is most perfect about this? What am I willing to do?\"",
+          "\"How can I enjoy the process?\""
+        ]
+      },
+      {
+        "heading": "Chapter 8: Vocabulary of Ultimate Success",
+        "points": [
+          "Your words have power to communicate with yourself.",
+          "The words can become attached — own experience.",
+          "Effectively using transformational vocabulary.",
+          "\"When is a metaphor? When we explain or complain — a concept or metaphor?\"",
+          "\"The telephone is one of the most faithful potentials.\"",
+          "Use metaphors as symbols."
+        ]
+      },
+      {
+        "heading": "Chapter 9: Ten Emotional Intensifiers",
+        "points": [
+          "How people deal with emotions:",
+          "1) Avoidance. 2) Denial. 3) Competition — competing with others.",
+          "4) Learning & mastering. 5) Acknowledge what you can really feel.",
+          "6 steps of Emotional Mastery:",
+          "Acknowledge & appreciate emotions. Get curious about the message.",
+          "Get confident you can handle it. Get excited & take action."
+        ]
+      },
+      {
+        "heading": "Chapters 11–12: Compelling Future & Challenge",
+        "points": [
+          "Orient goals: Produce a compelling future.",
+          "Turning the invisible into visible. Set clear goals.",
+          "The direction — going is more important than individual results.",
+          "To determine your goals — short by coating down. Career, Finance, Personal Development.",
+          "Chapter 12: The 10-day mental & emotional challenge.",
+          "Commit to full control mental & emotional.",
+          "\"Don't ignore problems — put yourself in better state. Act on them.\"",
+          "\"Spend more than 10% of your time on solution.\""
+        ]
+      },
+      {
+        "heading": "Chapter 13: Your Master System",
+        "points": [
+          "Your ultimate influence system — your master system.",
+          "\"People are not always the same mindset.\""
+        ]
+      },
+      {
+        "heading": "Chapter 14: Life Values & Identity",
+        "points": [
+          "All decision making & value clarifications — value shift can change a person's life.",
+          "\"The key to expanding your identity: The key to happiness & expansion.\"",
+          "All values are in common — if you can start from scratch, you are doing best.",
+          "\"Success leaves clues.\" You can leverage on others' learnings.",
+          "It helps you to find path that actually works."
+        ]
+      },
+      {
+        "heading": "Chapter 15: Rules",
+        "points": [
+          "\"If your happiness depends on what you can't control — you'll always experience pain.\"",
+          "\"We create every way to feel bad. But good only face forward.\""
+        ]
+      },
+      {
+        "heading": "Chapter 16: References Shape Beliefs",
+        "points": [
+          "References & experiences shape beliefs. Your core beliefs.",
+          "All based on what you're comfortable. Determine how you feel.",
+          "\"Humans have consistency need for consistency.\"",
+          "\"We develop new behaviors — change the meaning of efforts.\"",
+          "You can change mindset. You can change them.",
+          "\"Thinking & reaching in new ways.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "num": "#33",
+    "title": "The 48 Laws of Power",
+    "subtitle": "Robert Greene",
+    "date": "May 23–30, 2016",
+    "icon": "👑",
+    "color": "#7B1FA2",
+    "sections": [
+      {
+        "heading": "Laws 1–10",
+        "points": [
+          "1) Never outshine the master.",
+          "2) Never put too much trust in friends. Learn to use enemies.",
+          "3) Conceal your intentions.",
+          "4) Always say less than necessary.",
+          "5) Never let people know your intentions — by your actions.",
+          "6) Never compete — make your product unique.",
+          "7) Your ambitions are promoted by your ambitions.",
+          "8) Colleagues & employees: Never teach them everything.",
+          "9) Through your actions — never through argument.",
+          "10) Infection: Avoid the unhappy. To easily be drawn into other people's problems. Past his problems."
+        ]
+      },
+      {
+        "heading": "Laws 11–20",
+        "points": [
+          "11) Learn to keep people dependent on you.",
+          "12) Related & counted is the easy — to keep people dependent.",
+          "13) Maintain your power.",
+          "14) Use selective honesty — display humility.",
+          "15) Crush your enemy — Don't commit. Not at once.",
+          "16) Use absence to increase respect & honour.",
+          "17) They are unable to be prepared — they will be unprepared.",
+          "18) Do not build fortresses — isolation is dangerous.",
+          "19) Know who you are dealing with — do not offend the wrong person.",
+          "20) Do not commit to anyone."
+        ]
+      },
+      {
+        "heading": "Laws 21–30",
+        "points": [
+          "21) Play a sucker to catch a sucker — seem dumber than your target.",
+          "22) Always remember strength — not at once committing.",
+          "23) Your own independence — not at once commitment.",
+          "24) Concentrate your forces.",
+          "25) Re-create yourself.",
+          "26) Be someone who is attention — keep your hands clean.",
+          "27) Keep your hands clean — play on people's need to believe.",
+          "28) Enter action with boldness.",
+          "29) Concentrate your forces. Plan all the way to the end.",
+          "30) Make your accomplishments seem effortless."
+        ]
+      },
+      {
+        "heading": "Laws 31–48",
+        "points": [
+          "31) Control the options: Get others to play with the cards you deal.",
+          "32) Discover each person's thumbscrew.",
+          "33) Play on people's fantasies.",
+          "34) Be royal in your own fashion — act like a king.",
+          "35) Master the art of timing — learn to stand back when the time is not yet ripe.",
+          "36) Disdain things you cannot have: Ignoring them is the best revenge.",
+          "37) Create compelling spectacles.",
+          "38) Think as you like but behave like others.",
+          "39) Stir up waters to catch fish.",
+          "40) Despise the free lunch.",
+          "41) Avoid stepping into a great man's shoes.",
+          "42) Shake the shepherd & the sheep will scatter.",
+          "43) Cook on the hearts & minds of others (Give / Touch).",
+          "44) Disarm and infuriate with the mirror effect.",
+          "45) Reach the need for change. But never reform too much at once.",
+          "46) Never appear too perfect.",
+          "47) Do not go past the mark you aimed for — know when to stop.",
+          "48) Assume formlessness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "num": "#34",
+    "title": "18 Myths of the Law of Attraction",
+    "date": "May 31 – Jun 1, 2016",
+    "icon": "🧲",
+    "color": "#00897B",
+    "sections": [
+      {
+        "heading": "Myths of the Law of Attraction",
+        "points": [
+          "M-1) The law of attraction is something that is learned.",
+          "M-2) The law of attraction: You don't have to take action.",
+          "M-3) You don't have to work hard.",
+          "M-4) The law of attraction only books are supernatural.",
+          "M-5) The law of attraction is magic.",
+          "M-6) What you want & it will manifest to you.",
+          "M-7) If you want: to leverage the law of attraction — you must control.",
+          "M-8) You need other people to believe in you — in the law of attraction.",
+          "M-9) The LoA is something bad — will happen.",
+          "M-10) If you think a negative thought — that is learned.",
+          "M-11) LoA is just about big dreams.",
+          "M-12) The LoA teaches you about — nobody other than yourself to care about.",
+          "M-13) Proving the LoA."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "num": "#35",
+    "title": "Brain Rules",
+    "subtitle": "John Medina",
+    "date": "Jun 2–5, 2016",
+    "icon": "🧬",
+    "color": "#5C6BC0",
+    "sections": [
+      {
+        "heading": "Core Brain Rules",
+        "points": [
+          "#1) Exercise boosts brain power — built for walking.",
+          "Own brain: built to do a day — exercise.",
+          "#2) The human brain evolved, too. Survival motion — the strongest mind/brains can survive.",
+          "#3) The human brain: Every brain is wired differently.",
+          "Ability to understand each other is chief survival tool."
+        ]
+      },
+      {
+        "heading": "#4–#6: Memory & Stress",
+        "points": [
+          "#4) Stressed brains don't learn the same way.",
+          "Worst kind of stress is non-control. Over the problem — finding that.",
+          "#5) Repeat to remember — along-term memory.",
+          "Most memories disappear within minutes.",
+          "Those that survive the fragile period strengthen with time.",
+          "#6) Remember to repeat."
+        ]
+      },
+      {
+        "heading": "#7–#10: Sleep & Senses",
+        "points": [
+          "#7) Sleep well. Think well.",
+          "Try to put your brain to sleep & cells that keep you awake — chemicals.",
+          "Neurons of your brain stress vigorous rhythmical activity: asleep.",
+          "#8) Stressed brains don't learn.",
+          "#9) Stimulate more of the senses — we learn best if we stimulate several senses at once.",
+          "Vision trumps all other senses.",
+          "#10) Vision is by far our most dominant sense — half of our brain's resources.",
+          "We learn best if we combine with vision — seeing & touching.",
+          "#11) We are powerful & natural explorers (Exploration Rule)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "num": "#36",
+    "title": "The Law of Success",
+    "subtitle": "Napoleon Hill",
+    "date": "Jun 6–7, 2016",
+    "icon": "⚖️",
+    "color": "#FF8F00",
+    "sections": [
+      {
+        "heading": "16 Lessons of Success",
+        "points": [
+          "1) Self Confidence. A Definite Chief Aim.",
+          "2) The law of Self Confidence.",
+          "\"Positive auto-suggestion / self-help.\"",
+          "Law 3) The habit of saving — The Free: of poverty, old age, criticism, loss of love or sense, sickness, death.",
+          "Law 4) Initiative & Leadership.",
+          "Law 5) Imagination.",
+          "Law 6) Enthusiasm.",
+          "Law 7) Self-Control.",
+          "Law 8) The habit of doing more than paid for.",
+          "Law 9) Pleasing personality.",
+          "Law 10) Accurate thought.",
+          "Law 11) Concentration & Co-operation.",
+          "Law 12) Impartial & Unimpartial — Failure.",
+          "Law 13) Tolerance.",
+          "Law 14) The Golden Rule.",
+          "Law 15) The Golden Rule (continued)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "num": "#37",
+    "title": "Extreme Ownership",
+    "subtitle": "Jocko Willink",
+    "date": "Jun 8–12, 2016",
+    "icon": "🎖️",
+    "color": "#455A64",
+    "sections": [
+      {
+        "heading": "1) Leaders Embrace Extreme Ownership",
+        "points": [
+          "There are no excuses. The buck is in your court.",
+          "There are no bad teams, only bad leaders.",
+          "Can't blame your boss, your budget, your competitors or your economy.",
+          "Being accountable for your success & failure — in job, career, & life.",
+          "A true leader must acknowledge the outcome of their mistakes.",
+          "A leader must admit failures, take ownership and develop a plan.",
+          "\"Good leadership is contagious.\""
+        ]
+      },
+      {
+        "heading": "2) No Bad Teams, Only Bad Leaders",
+        "points": [
+          "A good leadership succeeds on rules — a team leadership is contagious.",
+          "A team leadership succeeds, it's all up to the leader.",
+          "If you keep people too close to each other — they might break due to a lack of space.",
+          "If you keep them too far from each other — they might break due to a lack of support."
+        ]
+      },
+      {
+        "heading": "3) Mission Clarity & Strategy",
+        "points": [
+          "Communicate the mission — the strategic picture.",
+          "Actions & words reflect belief & self-assuredness — that is not in doubt is possible.",
+          "Actions & words reflect confidence."
+        ]
+      },
+      {
+        "heading": "4) Keep Your Ego in Check",
+        "points": [
+          "Put the mission above personal ego.",
+          "Leaders take full accountability — the planning & actions. The ability & the ability to take good advice & change direction.",
+          "Ego clouds all disrupts everything — every thing — the planning process.",
+          "5) Act decisively. Cover & move.",
+          "You will never get to 100% certainty — there is no absolute wish to be.",
+          "The picture always never be complete.",
+          "\"Cover your risks & more focused.\""
+        ]
+      },
+      {
+        "heading": "5–7) Simplicity, Priorities & Execution",
+        "points": [
+          "Simplicity & clarity.",
+          "A complex problem which requires a complex plan is not easily understood & not easily executed.",
+          "Leaders eliminate complexity in problems.",
+          "Leaders bring clarity to a situation. Keep plans simple, clear & crisp.",
+          "Good leaders identify the highest priorities.",
+          "Best leaders shy a step or two ahead of problems.",
+          "Leaders must determine the highest priority & execute."
+        ]
+      },
+      {
+        "heading": "8) Decentralized Command",
+        "points": [
+          "Good leaders delegate — communicate what needs to be accomplished.",
+          "Leader provides a clear goal — communicate a goal.",
+          "Freedom to innovate & adapt changes.",
+          "\"As the situation changes.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "num": "#38",
+    "title": "Leader's Corner",
+    "subtitle": "Hana Inova",
+    "date": "Jun 13–16, 2016",
+    "icon": "🏢",
+    "color": "#00695C",
+    "sections": [
+      {
+        "heading": "Leader's Corner — Core",
+        "points": [
+          "\"People are for people — and it should always be like that.\"",
+          "Rule 1: Leader — everything in this making world is teachable.",
+          "Rule 2: Problems & challenges.",
+          "Rule 3: Activities & paths — getting the right people on board.",
+          "Aligning people. Evaluation & feedback mechanism.",
+          "Lead from the front. Providing guidance, building morale & confidence.",
+          "\"The biggest quality of leaders — they are great from others.\"",
+          "Rule 4: Discipline & consistency — self-discipline & determination.",
+          "Rule 5: Control your emotions.",
+          "Rule 6: Adaptability & change — strength, persistence & stability.",
+          "Rule 7: Integrity & quick decision-making.",
+          "Rule 8: Critics & negative thinking. (Thoughts: Positive / Negative)."
+        ]
+      },
+      {
+        "heading": "Rule 9–11: Vision & Management",
+        "points": [
+          "Rule 9: Vision, time management & relations.",
+          "Catching thought, setting up a dream — first step in the process of vision & place.",
+          "Leaders are natural motivators.",
+          "Content goals & ambitions.",
+          "Rule 10: Time management, courage & relations.",
+          "How you see this world will determine your course of life.",
+          "How a simple belief could affect your whole life.",
+          "Rule 11: Goals & ambitions.",
+          "Proper efforts. Strategies. Help of others."
+        ]
+      },
+      {
+        "heading": "Mindset Chapter",
+        "points": [
+          "Chapter 1: How you see this world will determine your course of life.",
+          "You can achieve anything — need to push ahead.",
+          "You can achieve what you set your mind to.",
+          "Growth mindset — change your energy. Help them get better.",
+          "Challenge them to become a better person.",
+          "Encourage them to learn new things."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "num": "#39",
+    "title": "Mindset",
+    "subtitle": "Carol Dweck",
+    "date": "Jun 17–23, 2016",
+    "icon": "🔄",
+    "color": "#AD1457",
+    "sections": [
+      {
+        "heading": "Chapter 1: Mindset — Control",
+        "points": [
+          "How you see this world will determine your course of life.",
+          "How a simple belief could affect your whole life.",
+          "You can achieve anything.",
+          "\"You can change your limiting belief — reach your goal.\"",
+          "You must take control of your beliefs system.",
+          "You can reshape & transform your beliefs — take action towards your goal.",
+          "\"People struggle with limited belief — limited belief don't improve life.\"",
+          "\"To change your strategy — work on best. Success leaves clues.\"",
+          "If you are doing something, start from scratch. You can leverage on others' learnings."
+        ]
+      },
+      {
+        "heading": "Chapter 2: Fixed vs Growth Mindset",
+        "points": [
+          "Why p. hide your deficiencies? Why live with self-esteem?",
+          "To convince your self & convince people.",
+          "When nothing is going — the most challenging condition — is the hallmark of growth mindset.",
+          "Is success about learning, or proving you are smart?",
+          "\"Success is doing their best & improving.\"",
+          "\"Learning & improving.\"",
+          "\"Joy of athletics has never been in winning — it's derived from the process.\"",
+          "\"While James has never resolved happiness.\"",
+          "\"Don't mind losing as long as I see improvement.\"",
+          "\"Taking charge of success.\""
+        ]
+      },
+      {
+        "heading": "Chapter 3: Truth About Ability & Accomplishment",
+        "points": [
+          "\"People can see growth. Cut when their belief falls — it's because of their belief. No effort.\"",
+          "\"No one could succeed without it.\"",
+          "\"Always rethink about what you are going to praise someone.\""
+        ]
+      },
+      {
+        "heading": "Chapter 4: Sports — Mindset of Champions",
+        "points": [
+          "\"Character. Natural talent.\"",
+          "\"They believe that talented is all natural.\""
+        ]
+      },
+      {
+        "heading": "Chapter 5: Business Leadership & Mindset",
+        "points": [
+          "Business mindset & leadership. Grayson & the mindset of talent.",
+          "\"True love never runs out. Mindsets in love, or not.\"",
+          "\"Filled with disappointments & heartbreaks.\"",
+          "\"Some people let these experiences scar them.\"",
+          "\"They prevent themselves from a satisfying relationship.\""
+        ]
+      },
+      {
+        "heading": "Changing Mindset",
+        "points": [
+          "\"Mindsets change the meaning of efforts.\"",
+          "Fixed mindset: Geniuses not supposed to put in effort.",
+          "Growth mindset: Effects are terrifying with two effects.",
+          "3) Robs you of all your excuses."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "num": "#40",
+    "title": "The Magic of Thinking Big",
+    "subtitle": "David Schwartz",
+    "date": "Jun 24–25, 2016",
+    "icon": "🎩",
+    "color": "#6A1B9A",
+    "sections": [
+      {
+        "heading": "Core Teaching",
+        "points": [
+          "The purpose of this book is to think big.",
+          "\"It is very important to live a big life.\"",
+          "Case history often proved — the size of your bank account, happiness & general accomplishments is dependent on the size of their thinking.",
+          "\"Magic is in thinking big.\""
+        ]
+      },
+      {
+        "heading": "Key Lessons",
+        "points": [
+          "Lesson #1: Believe — you can succeed and you will.",
+          "Lesson #2: Stop making excuses.",
+          "Lesson #3: Don't underestimate yourself.",
+          "Lesson #4: Speak big & positive words.",
+          "Lesson #5: Take care of your appearance."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "num": "#41",
+    "title": "14 Life Lessons from Ramayana",
+    "date": "Jun 26–29, 2016",
+    "icon": "🙏",
+    "color": "#E65100",
+    "sections": [
+      {
+        "heading": "Principles from Ramayana",
+        "points": [
+          "Good work should be done as soon as possible — and avoid suspicion as much as possible.",
+          "You should never consider your opponent your enemy. If there is any secret — not tell anyone he should smaller them yourself."
+        ]
+      },
+      {
+        "heading": "Lessons 1–7",
+        "points": [
+          "Lesson 1: Live a happy life.",
+          "Lesson 2: Good work should be done soon — avoid suspicion as possible.",
+          "Lesson 3: If there is any secret — do not tell; if his life anyone — he should smaller them.",
+          "Lesson 4: Diversity is the biggest lesson of Ramayana.",
+          "Lesson 5: Loved Remarks — behaviour was very polite. There was a sense of respect for everyone.",
+          "Lesson 6: The book tells us the importance of good company. So that should be in good — doesn't matter.",
+          "Lesson 7: It tells us that we should surrender ourselves at the feet of our beloved."
+        ]
+      },
+      {
+        "heading": "Management Lessons",
+        "points": [
+          "Lesson 8: This shows that our objectives in the use of vengeance — in the order of human others.",
+          "Lesson 9: All can surrender of God.",
+          "Lesson 10: Those introduced his co-coordinators to help — then helps him according to his ability.",
+          "Lesson 11: Absorbment of strength — end. The most — is the most important. Part of holidays is most important.",
+          "Lesson 12: Assessment of their strength, opportunities. Most important: his body is weaknesses.",
+          "Lesson 13: A good manager is one who has good relationships — all his employees and clients.",
+          "Lesson 14: In the corporate world — there comes a time when leader has to produce like himself. The biggest thing — a leader — in his people who are around you to make good cooking around you."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "num": "#42",
+    "title": "The 5-Hour Rule",
+    "subtitle": "Thomas Corley",
+    "date": "Jun 30 – Jul 1, 2016",
+    "icon": "⏰",
+    "color": "#1565C0",
+    "sections": [
+      {
+        "heading": "5-Hour Rule",
+        "points": [
+          "It's no secret that millionaire people read — an average of three books per month.",
+          "Read in your free times: Blogs, News sites, Fiction, Non-fiction."
+        ]
+      },
+      {
+        "heading": "The Three Buckets of the 5-Hour Rule",
+        "points": [
+          "1) Reading.",
+          "2) Reflection.",
+          "3) Experimentation.",
+          "Knowledge is the new money.",
+          "While goods and services are becoming demonetized — knowledge is becoming increasingly valuable."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "num": "#43",
+    "title": "Million Dollar Habits",
+    "subtitle": "Brian Tracy",
+    "date": "Jul 3–4, 2016",
+    "icon": "💎",
+    "color": "#C62828",
+    "sections": [
+      {
+        "heading": "Core Lessons",
+        "points": [
+          "Lesson 1: You are what you think — habits make you successful.",
+          "Lesson 2: Habits are different but essential to adopt.",
+          "Lesson 3: Habits can make what you succeed — raising your self-concept motivates you to do better.",
+          "Lesson 4: The habits of leadership — the habits of character.",
+          "Lesson 5: The habit of health & well-being."
+        ]
+      },
+      {
+        "heading": "Key Principles",
+        "points": [
+          "Lesson 6: Importance of self-discipline.",
+          "Lesson 7: Develop a healthy lifestyle & healthy relationships with people.",
+          "Lesson 8: Make it happen.",
+          "Lesson 9: Successful people have healthy relationships with people.",
+          "Lesson 10: The habit of health & well-being."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "num": "#44",
+    "title": "The Personal MBA",
+    "subtitle": "Josh Kaufman",
+    "date": "Jul 5–26, 2016",
+    "icon": "📋",
+    "color": "#37474F",
+    "sections": [
+      {
+        "heading": "Value & Ventures",
+        "points": [
+          "A venture that doesn't sell — doesn't create value — is a hobby.",
+          "A venture that doesn't attract attention — is a flop.",
+          "A venture that doesn't bring in enough money is a scam.",
+          "A business that doesn't deliver what it promises — is a nonprofit.",
+          "A venture that doesn't keep spending — will inevitably close."
+        ]
+      },
+      {
+        "heading": "01) Value Creation",
+        "points": [
+          "How much urgency — is there in the market for that product?",
+          "What is the market size for that product?",
+          "How much your pricing potential.",
+          "Cost of customer acquisition. Cost of value delivery.",
+          "Uniqueness of offer. Speed to market.",
+          "Up-front investment. Upsell potential & evergreen selling potential.",
+          "\"Work is needed to continue & evergreen selling potential.\""
+        ]
+      },
+      {
+        "heading": "02) Marketing",
+        "points": [
+          "Marketing is about your marketing — potential attention is limited.",
+          "Rule #1: Your calculable potential attention — limited.",
+          "Timing is more important. Market entry — Qualification & remarkability.",
+          "Marketing activities. Framing — free sample of things.",
+          "Permission. Hook. Call to action."
+        ]
+      },
+      {
+        "heading": "03) Sales",
+        "points": [
+          "Pricing: uncertainty & principle.",
+          "All prices are malleable and arbitrary.",
+          "4 pricing methods: 1) Replacement cost. 2) Market comparison. 3) Discounted cash flow. 4) Value based comparison.",
+          "Value based selling."
+        ]
+      },
+      {
+        "heading": "Spin Selling",
+        "points": [
+          "1) Understanding the situation — the problem.",
+          "2) Defining the short-term and long-term problem.",
+          "3) Clarifying the implications of the problem.",
+          "4) Qualifying the need — financial and emotional payoff of solving the problem.",
+          "Education-based selling. Exclusivity-based selling."
+        ]
+      },
+      {
+        "heading": "04) Value Delivery",
+        "points": [
+          "Predictability of delivery.",
+          "3 Criteria: Uniformity — you deliver the same thing consistently.",
+          "Reliability. Competition. Force multiplier. Systemization."
+        ]
+      },
+      {
+        "heading": "05) Finance & Accounting",
+        "points": [
+          "Income statement: Revenue - Expenses + Taxes.",
+          "Balance sheet: Assets = Liabilities + Shareholder equity.",
+          "3 methods to increase revenue: Increase the number of customers, increase the transaction value, increase the frequency per customer.",
+          "Cash flow statement. Operations: Selling offers and buying inputs. Investing: Collecting dividends, paying for capital expenditures.",
+          "Free cash flow = More cash = Higher resilience."
+        ]
+      },
+      {
+        "heading": "Pricing & Lifetime Value",
+        "points": [
+          "Raise pricing. Customer lifetime value (LTV).",
+          "Cost types: Direct (related to how much value you create), Fixed (incurred no matter what), Nominal.",
+          "Return on investment. Cash flow cycle.",
+          "Be capital: Borrowing and paying it back.",
+          "Amortization. Purchasing power. Sunk costs."
+        ]
+      },
+      {
+        "heading": "3 Universal Currencies",
+        "points": [
+          "Time. Gold / Oil. Flexibility.",
+          "Persuasion Resistance."
+        ]
+      },
+      {
+        "heading": "06) The Human Mind",
+        "points": [
+          "Hindbrain. Midbrain. Forebrain.",
+          "\"One of the best things you can do is dissociate yourself from the noise in your head.\"",
+          "Conflict. Reinterpretation. Motivation."
+        ]
+      },
+      {
+        "heading": "Cognitive Biases & Desires",
+        "points": [
+          "Desire to move toward things which are desirable.",
+          "Desire to move away from things which are undesirable.",
+          "Loss aversion. Threat lockdown.",
+          "Cognitive scope limitation."
+        ]
+      },
+      {
+        "heading": "Completion & Flow State",
+        "points": [
+          "Attraction is magic. A task should become a desire/want.",
+          "An emotional experience of resistance — Nominalism.",
+          "Flow state — eliminate potential interruptions.",
+          "1) Eliminate inner conflicts & stacking.",
+          "2) Highlighting your attention — process by using a Pomodoro technique.",
+          "3) Highlighting your attention to work.",
+          "Completion: Best for tools that work well.",
+          "Delegation: For non-critical tasks — a person can delegate 80% as well as work.",
+          "Deferment: For non-critical and non-time-dependent tasks.",
+          "Deletion: Effective for unimportant and unnecessary items — should be deleted."
+        ]
+      },
+      {
+        "heading": "07) Coaching & Working with Others",
+        "points": [
+          "PICS format: Positive. Immediate. Concrete. Specific.",
+          "Habits — things you want to stop doing. Things you can't count to do more or less.",
+          "Effective communication: Listening intently. Paying attention. Expressing interest.",
+          "Asking questions. Show your facts. Tell your story.",
+          "Comparative advantage: Power of others.",
+          "Communication: Reduce your team size as much as possible."
+        ]
+      },
+      {
+        "heading": "08) Effective Management",
+        "points": [
+          "Ask others' taking — what's happening and what's not.",
+          "Come up with ideas of what you can do to improve.",
+          "Guess which of your ideas will work best.",
+          "Execute on the ideas. Work best.",
+          "Decide whether to keep or discard changes.",
+          "Measure the result of any changes — determine effect of changes.",
+          "Repeat this process. Feedback."
+        ]
+      },
+      {
+        "heading": "6 Principles of Effective Management",
+        "points": [
+          "1) Result: The smallest group of people possible to accomplish the task.",
+          "2) Clearly communicate — who is responsible. People will be better than remembering others.",
+          "3) Treat people with respect. Make people feel important.",
+          "Give a supportive, sympathetic environment for people to work in.",
+          "4) Create the environment & provide the best equipment for productivity.",
+          "People are doing at work — reinforce. Shield your team from distractions.",
+          "5) Update the plan as you go along.",
+          "6) Measure progress and compare — if your approach is not working, change it."
+        ]
+      },
+      {
+        "heading": "09) Analyzing & Improving Systems",
+        "points": [
+          "Risk vs uncertainty — counterparty risk.",
+          "Analysing performance — key performance indicators (CREPZ).",
+          "Value creation. How quickly you can serve. 1 customer. 1 what is the current/level of influence.",
+          "How many people are paying attention. How many prospects are giving you offer.",
+          "Permission to provide more information."
+        ]
+      },
+      {
+        "heading": "Sales & Finance Principles",
+        "points": [
+          "How money prospects are becoming & paying customers.",
+          "What is the customer's life home value (LTV)?",
+          "What is your purchasing profit to manage?",
+          "How much money you are making?",
+          "Finance — what is your current complaint?",
+          "1 customer. 1 what is the rate?",
+          "How quickly you can serve. 1 how much each customers.",
+          "Are you financially sufficient?"
+        ]
+      },
+      {
+        "heading": "Improvising Systems",
+        "points": [
+          "Optimization — the capitalization: The Pareto principle (80/20).",
+          "The Pareto principle applied — Friction, Automation.",
+          "\"The best way to start — is to stop doing something.\"",
+          "Analyse. Measure. Decide. Repeat."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "num": "#45",
+    "title": "How to Become a People Magnet",
+    "date": "Jul 27–29, 2016",
+    "icon": "🧲",
+    "color": "#F06292",
+    "sections": [
+      {
+        "heading": "Principles 1–12",
+        "points": [
+          "1) Shake it first — from your side. Move & relax.",
+          "2) Eye contact — gaze deeply.",
+          "3) Put yourself in someone else's shoes.",
+          "4) Be ready to engage.",
+          "5) Focus on CPI — common point of interest.",
+          "6) Don't cross your arms.",
+          "7) Give favoured answers — \"Amazing\" and all key words.",
+          "8) Give favoured options for communication.",
+          "9) Always have opinions for business & communication.",
+          "10) Conquer your fear of rejection.",
+          "11) Be honest.",
+          "12) Mirroring body language."
+        ]
+      },
+      {
+        "heading": "Principles 13–33",
+        "points": [
+          "13) Personal hygiene.",
+          "14) Learn to express how you feel.",
+          "15) Be personal. Not vulnerable. 16) Become more self-aware.",
+          "17) Match your friendly words to actions.",
+          "18) Show genuine interest in others. 19) Make a friendly first impression.",
+          "20) Find a common ground.",
+          "21) Stay in touch. 22) Show excitement & lead.",
+          "23) Show positive. 24) Be a good storyteller.",
+          "25) Be more human. 26) Be more kind. A good human.",
+          "27) Make people laugh. 28) Make it about them.",
+          "29) Broaden your horizons.",
+          "30) Remember your details. 31) Exchange more favours.",
+          "32) Develop more self-compassion.",
+          "33) Master the five love languages: Words of affirmation, Physical touch, Quality time, Acts of service, Gifts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "num": "#46",
+    "title": "Believing in Yourself",
+    "subtitle": "Dr. Joseph Murphy",
+    "date": "Jul 30 – Aug 1, 2016",
+    "icon": "🌱",
+    "color": "#2E7D32",
+    "sections": [
+      {
+        "heading": "Chapter 1: Opposite Motivation — Method of Change",
+        "points": [
+          "The first rule is that you can't tell anyone but your wife — what you're doing.",
+          "The second rule: you can start — it only days, learn/you could have to even help a person in the same — you'll win.",
+          "\"You can't call the time — all the difference to get better.\"",
+          "\"Not everyone is better but we can be 1% better between our own victory and difference.\""
+        ]
+      },
+      {
+        "heading": "Chapter 3: Physics for Success",
+        "points": [
+          "Assessment. Performance. Marketing & Journalism.",
+          "Developing skills — exploring options.",
+          "How to make yourself personal."
+        ]
+      },
+      {
+        "heading": "Core Teachings",
+        "points": [
+          "Change your mental positivity — as well as rich & successful.",
+          "Imagination is one of the superpowers.",
+          "\"The best way to increase motivation in your life — more you do any work — the more motivated you will be.\"",
+          "The more changes in your work — will be a work.",
+          "3) The easy way to start — it's a small task.",
+          "4) Your goal should be clear.",
+          "5) You should choose a job.",
+          "\"What helps you achieve your goals — and should help you get better at it.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "num": "#47",
+    "title": "Sohiban — The 30-Day Formula",
+    "subtitle": "Taro Counsellism",
+    "date": "Aug 3–5, 2016",
+    "icon": "📅",
+    "color": "#0277BD",
+    "sections": [
+      {
+        "heading": "Chapter 5: Exercises & Daily Habits",
+        "points": [
+          "1) If you want to become an expert — practice for 10,000 hours. Or practice about it.",
+          "2) Practice done consistently — understanding, improving words consistently.",
+          "3) Coach out for 30 minutes every week. Be consistent — keep doing two things between sessions.",
+          "4) Do charting at night — for 10 to 30 minutes.",
+          "5) Sleep at least eight hours for a night.",
+          "6) To make yourself feel fresh — take a vacation from time. Spread your time in nature."
+        ]
+      },
+      {
+        "heading": "The 30-Day Formula That Will Change Your Life",
+        "points": [
+          "1) Make a timetable & pay attention — and continue to pay attention.",
+          "2) Practice done consistently — understanding, improving word consistently.",
+          "3) It is not pleasant — it can be difficult. But keep on cooking. Sometimes it can be too difficult.",
+          "4) To achieve your goals — move ahead by learning from your negative beliefs.",
+          "5) Don't turn yourself — into a defeat forever. Compose yourself to offset.",
+          "6) Compare yourself — feel fresh & a nap. Take a vacation from time. Feel the fresh energy.",
+          "7) Plan ahead — but give your best effort in your present."
+        ]
+      },
+      {
+        "heading": "Chapter 2: Complete the Cycle",
+        "points": [
+          "Completing the cycle — the essential thing."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "num": "#48",
+    "title": "You Were Born Rich",
+    "subtitle": "Bob Proctor",
+    "date": "Aug 6–8, 2016",
+    "icon": "🌟",
+    "color": "#FF6F00",
+    "sections": [
+      {
+        "heading": "1) Me & Money",
+        "points": [
+          "a) How much money is enough?",
+          "Active income vs. passive income.",
+          "You must have a financial independent account.",
+          "Save 10% of your salary/income."
+        ]
+      },
+      {
+        "heading": "3) The Image Maker",
+        "points": [
+          "Gratitude — attitude.",
+          "Listen. Remember rich people's attention — before bad.",
+          "\"Without expectation — desire is only a thinking.\"",
+          "\"Wishful desire is only a thinking.\""
+        ]
+      },
+      {
+        "heading": "4) The Law of Growth",
+        "points": [
+          "You need to accept the true reality of something before you'll even be able to change it.",
+          "\"When you go — there only have.\"",
+          "\"Ultimately — you only have control on yourself.\""
+        ]
+      },
+      {
+        "heading": "5) The Law of Vibration & Attraction",
+        "points": [
+          "You should give an image — in your money mind.",
+          "You expect it from the heart — spirit.",
+          "\"6) The law of vibration & attraction.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "num": "#49",
+    "title": "12 Laws of Karma",
+    "date": "Aug 9–13, 2016",
+    "icon": "☸️",
+    "color": "#4E342E",
+    "sections": [
+      {
+        "heading": "Laws 1–6",
+        "points": [
+          "1) The Great Law — what goes around comes around. Cause & effect.",
+          "\"The law of cause & effect.\" Similar to: \"The law of creation.\"",
+          "2) The law of Creation — Surround yourself related with what you want.",
+          "3) The law of Humility — you need to accept the true reality — before you'll even be able to change it.",
+          "4) The law of Growth — \"when you go — there you only have. Ultimately — control on yourself.\"",
+          "5) The law of Responsibility — it is helpful to remember that whatever is happening around or for you — is happening to you. Whether it is something familiar, unpleasant — the source is responsible for all your life experiences.",
+          "6) The law of Connection — this law emphasizes the past — relationship between present & future."
+        ]
+      },
+      {
+        "heading": "Laws 7–12",
+        "points": [
+          "7) The law of Focus — you can't think of two things at the same time.",
+          "8) The law of Giving & Hospitality — live in peace.",
+          "9) The law of Here & Now — live in present.",
+          "10) The law of Change — history repeats itself until you learn the lessons.",
+          "11) The law of Patience & Reward — this law claims success that your greatest hand — consistent hard work — all require patience.",
+          "\"This purchases that stress — that every aspect of influence or contribution may be small or great — the whole — or even the whole may be that.\"",
+          "12) The law of Significance & Inspiration — every aspect of your contribution, small or great."
+        ]
+      }
+    ]
+  }
+]
