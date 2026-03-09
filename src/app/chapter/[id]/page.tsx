@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation'
 import { cookies } from 'next/headers'
+import { createClient } from '@supabase/supabase-js'
 import { createServerClient } from '@shared/supabase/server'
 import { ChapterDetail } from '@/components/ChapterDetail'
 import type { Chapter } from '@shared/types'
@@ -8,8 +9,16 @@ import type { Metadata } from 'next'
 export const revalidate = 3600
 export const dynamicParams = true
 
+// Use direct client for build-time functions (no request context available)
+function createBuildClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  )
+}
+
 export async function generateStaticParams() {
-  const supabase = createServerClient(cookies())
+  const supabase = createBuildClient()
   const { data } = await supabase
     .from('chapters')
     .select('id')
