@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { EB_Garamond, Outfit } from 'next/font/google'
+import { Providers } from '@/components/Providers'
 import './globals.css'
 
 const serif = EB_Garamond({
@@ -37,9 +38,9 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`${serif.variable} ${sans.variable}`}>
+    <html lang="en" className={`${serif.variable} ${sans.variable}`} suppressHydrationWarning>
       <body className="bg-niti-bg text-niti-text-primary font-serif min-h-screen antialiased">
-        {children}
+        <Providers>{children}</Providers>
       </body>
     </html>
   )

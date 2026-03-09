@@ -5,17 +5,17 @@ const preset: Partial<Config> = {
     extend: {
       colors: {
         niti: {
-          bg: '#08080B',
-          surface: '#101015',
-          'surface-hover': '#16161D',
-          gold: '#C8A44E',
-          border: 'rgba(200,164,78,0.07)',
-          'border-hover': 'rgba(200,164,78,0.22)',
-          'text-primary': '#EAE5D8',
-          'text-secondary': '#9E9788',
-          'text-muted': '#5A5548',
-          danger: '#C84E4E',
-          success: '#4EC870',
+          bg: 'rgb(var(--niti-bg) / <alpha-value>)',
+          surface: 'rgb(var(--niti-surface) / <alpha-value>)',
+          'surface-hover': 'rgb(var(--niti-surface-hover) / <alpha-value>)',
+          gold: 'rgb(var(--niti-gold) / <alpha-value>)',
+          border: 'var(--niti-border)',
+          'border-hover': 'var(--niti-border-hover)',
+          'text-primary': 'rgb(var(--niti-text-primary) / <alpha-value>)',
+          'text-secondary': 'rgb(var(--niti-text-secondary) / <alpha-value>)',
+          'text-muted': 'rgb(var(--niti-text-muted) / <alpha-value>)',
+          danger: 'rgb(var(--niti-danger) / <alpha-value>)',
+          success: 'rgb(var(--niti-success) / <alpha-value>)',
         },
       },
       fontFamily: {

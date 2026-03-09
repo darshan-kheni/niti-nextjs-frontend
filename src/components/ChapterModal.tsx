@@ -29,7 +29,7 @@ export function ChapterModal({ chapter, onClose }: ChapterModalProps) {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in"
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-[var(--niti-overlay)] backdrop-blur-sm animate-fade-in"
       onClick={onClose}
     >
       <div
@@ -37,11 +37,11 @@ export function ChapterModal({ chapter, onClose }: ChapterModalProps) {
         onClick={(e) => e.stopPropagation()}
       >
         {/* Gold accent line */}
-        <div className="h-1 rounded-t-2xl bg-gradient-to-r from-niti-gold to-amber-800" />
+        <div className="h-1 rounded-t-2xl bg-[image:linear-gradient(to_right,var(--niti-gold-gradient-from),var(--niti-gold-gradient-to))]" />
 
         {/* Close button */}
         <button
-          className="absolute top-4 right-4 w-11 h-11 flex items-center justify-center rounded-lg text-niti-text-muted hover:text-niti-text-primary hover:bg-white/[0.05] transition-colors z-10"
+          className="absolute top-4 right-4 w-11 h-11 flex items-center justify-center rounded-lg text-niti-text-muted hover:text-niti-text-primary hover:bg-niti-surface-hover transition-colors z-10"
           onClick={onClose}
           aria-label="Close"
         >

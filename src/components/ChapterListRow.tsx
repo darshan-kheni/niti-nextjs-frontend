@@ -45,7 +45,7 @@ export function ChapterListRow({ chapter, maxPoints, onClick }: ChapterListRowPr
       </span>
 
       <div className="w-24 flex items-center gap-2 flex-shrink-0 hidden md:flex">
-        <div className="flex-1 h-[3px] rounded-full bg-white/[0.04]">
+        <div className="flex-1 h-[3px] rounded-full bg-[var(--niti-bar-bg)]">
           <div
             className="h-full rounded-full"
             style={{

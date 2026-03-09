@@ -22,7 +22,7 @@ export function CategoryFilter({
     'flex-shrink-0 flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-sans border transition-colors cursor-pointer whitespace-nowrap'
   const activeClass = 'bg-niti-gold/20 text-niti-gold border-niti-gold/30'
   const inactiveClass =
-    'bg-white/[0.03] text-niti-text-secondary border-niti-border hover:border-niti-border-hover'
+    'bg-[var(--niti-input-bg)] text-niti-text-secondary border-niti-border hover:border-niti-border-hover'
 
   return (
     <div className="flex items-center gap-2 overflow-x-auto flex-nowrap pb-1 scrollbar-none">

@@ -23,7 +23,7 @@ export function SearchBar({ value, onChange }: SearchBarProps) {
         value={value}
         onChange={(e) => onChange(e.target.value)}
         placeholder="Search chapters, topics, authors..."
-        className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-white/[0.03] border border-niti-border text-sm font-sans text-niti-text-primary placeholder:text-niti-text-muted focus:outline-none focus:border-niti-border-hover transition-colors"
+        className="w-full pl-10 pr-4 py-2.5 rounded-xl bg-[var(--niti-input-bg)] border border-niti-border text-sm font-sans text-niti-text-primary placeholder:text-niti-text-muted focus:outline-none focus:border-niti-border-hover transition-colors"
       />
     </div>
   )

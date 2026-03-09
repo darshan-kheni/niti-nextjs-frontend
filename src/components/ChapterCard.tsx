@@ -44,7 +44,7 @@ export function ChapterCard({ chapter, maxPoints, onClick, delay }: ChapterCardP
       <div className="flex items-center gap-3 mt-auto pt-2">
         <span className="text-xs text-niti-text-muted font-sans">{chapter.date}</span>
         <div className="flex-1 flex items-center gap-2">
-          <div className="flex-1 h-[3px] rounded-full bg-white/[0.04]">
+          <div className="flex-1 h-[3px] rounded-full bg-[var(--niti-bar-bg)]">
             <div
               className="h-full rounded-full transition-all"
               style={{

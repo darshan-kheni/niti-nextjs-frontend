@@ -20,7 +20,7 @@ export default function Error({
       </p>
       <button
         onClick={reset}
-        className="mt-2 rounded-md bg-niti-gold px-5 py-2 font-sans text-sm font-medium text-niti-bg transition-opacity hover:opacity-90"
+        className="mt-2 rounded-md bg-[image:linear-gradient(to_right,var(--niti-gold-gradient-from),var(--niti-gold-gradient-to))] px-5 py-2 font-sans text-sm font-medium text-niti-bg transition-opacity hover:opacity-90"
       >
         Try again
       </button>
