@@ -1,63 +1,37 @@
 'use client'
 
+import Link from 'next/link'
+import { ArrowUpRight, Bookmark, Check, Clock, Eye } from 'lucide-react'
 import type { Chapter } from '@shared/types'
 import { pointCount } from '@shared/utils'
+import { categoryFor, excerpt, readingMinutes } from '@/lib/library'
+import { Card, CardContent } from '@/components/ui/card'
+import { Button } from '@/components/ui/button'
+import { Badge } from '@/components/ui/badge'
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
+import { BookCover } from './BookCover'
+import { useReading } from './ReadingProvider'
 
-interface ChapterCardProps {
-  chapter: Chapter
-  maxPoints: number
-  onClick: () => void
-  delay: number
-}
-
-export function ChapterCard({ chapter, maxPoints, onClick, delay }: ChapterCardProps) {
-  const pts = pointCount(chapter.sections)
-  const barWidth = maxPoints > 0 ? (pts / maxPoints) * 100 : 0
-
-  return (
-    <article
-      className="bg-niti-surface rounded-2xl border border-niti-border p-5 cursor-pointer transition-colors hover:bg-niti-surface-hover hover:border-niti-border-hover flex flex-col gap-3 animate-slide-up"
-      style={{ animationDelay: `${delay}ms`, animationFillMode: 'backwards' }}
-      onClick={onClick}
-    >
-      <div className="flex items-start justify-between">
-        <div
-          className="w-10 h-10 rounded-xl flex items-center justify-center text-lg flex-shrink-0"
-          style={{ backgroundColor: chapter.color + '22' }}
-        >
-          {chapter.icon}
-        </div>
-        <span className="text-xs font-sans text-niti-gold">{chapter.num}</span>
-      </div>
-
-      <div className="flex-1">
-        <h3 className="font-serif text-lg font-semibold text-niti-text-primary leading-snug">
-          {chapter.title}
-        </h3>
-        {chapter.subtitle && (
-          <p className="text-sm text-niti-text-secondary font-sans mt-1 line-clamp-2">
-            {chapter.subtitle}
-          </p>
-        )}
-      </div>
-
-      <div className="flex items-center gap-3 mt-auto pt-2">
-        <span className="text-xs text-niti-text-muted font-sans">{chapter.date}</span>
-        <div className="flex-1 flex items-center gap-2">
-          <div className="flex-1 h-[3px] rounded-full bg-[var(--niti-bar-bg)]">
-            <div
-              className="h-full rounded-full transition-all"
-              style={{
-                width: `${barWidth}%`,
-                backgroundColor: chapter.color,
-              }}
-            />
-          </div>
-          <span className="text-xs text-niti-text-muted font-sans whitespace-nowrap">
-            {pts} pts
-          </span>
-        </div>
-      </div>
-    </article>
-  )
+export function ChapterCard({ chapter, onPreview, list = false }: { chapter: Chapter; onPreview: () => void; list?: boolean }) {
+  const { saved, completed, ready, toggleSaved } = useReading()
+  const isSaved = saved.includes(chapter.id)
+  const isRead = completed.includes(chapter.id)
+  return <Card className={`summary-card ${list ? 'summary-list-row' : ''}`}>
+    <div className="cover-stage">
+      <Link href={`/chapter/${chapter.id}`} className="cover-link" aria-label={`Read ${chapter.title}`}><BookCover chapter={chapter} /></Link>
+      <Tooltip>
+        <TooltipTrigger asChild><Button disabled={!ready} variant="secondary" size="icon" className="save-button" onClick={() => toggleSaved(chapter.id)} aria-label={`${isSaved ? 'Remove' : 'Save'} ${chapter.title}${isSaved ? ' from reading list' : ' to reading list'}`} aria-pressed={isSaved}><Bookmark size={16} fill={isSaved ? 'currentColor' : 'none'} /></Button></TooltipTrigger>
+        <TooltipContent>{isSaved ? 'Remove from reading list' : 'Save for later'}</TooltipContent>
+      </Tooltip>
+      {isRead && <Badge className="read-badge"><Check size={12} />Read</Badge>}
+    </div>
+    <CardContent className="summary-card-content">
+      <div className="summary-category">{categoryFor(chapter)?.name || 'Collected wisdom'}<span>{chapter.num}</span></div>
+      <Link href={`/chapter/${chapter.id}`} className="summary-title-link"><h3>{chapter.title}</h3></Link>
+      <p className="summary-author">{chapter.subtitle || 'Collected reading notes'}</p>
+      {list && <p className="list-excerpt">{excerpt(chapter)}</p>}
+      <div className="summary-meta"><span><Clock size={13} />{readingMinutes(chapter)} min read</span><span>{pointCount(chapter.sections)} key {pointCount(chapter.sections) === 1 ? 'point' : 'points'}</span></div>
+      <div className="card-actions"><Button variant="ghost" size="sm" className="preview-button" onClick={onPreview}><Eye size={14} />Quick look</Button><Link href={`/chapter/${chapter.id}`} className="read-link" aria-label={`Read summary: ${chapter.title}`}>Read summary<ArrowUpRight size={14} /></Link></div>
+    </CardContent>
+  </Card>
 }

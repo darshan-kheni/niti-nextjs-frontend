@@ -22,7 +22,8 @@
     "**/*.ts",
     "**/*.tsx",
     "./shared/**/*.ts",
-    ".next/types/**/*.ts"
+    ".next/types/**/*.ts",
+    ".next-preview/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

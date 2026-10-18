@@ -1,129 +1,36 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useRef } from 'react'
+import Link from 'next/link'
+import { ArrowUpRight, Bookmark, Clock, BookOpen } from 'lucide-react'
 import type { Chapter } from '@shared/types'
 import { pointCount } from '@shared/utils'
+import { categoryFor, readingMinutes } from '@/lib/library'
+import { Dialog, DialogContent, DialogTitle, DialogDescription } from '@/components/ui/dialog'
+import { Button } from '@/components/ui/button'
+import { Badge } from '@/components/ui/badge'
+import { Separator } from '@/components/ui/separator'
+import { BookCover } from './BookCover'
+import { useReading } from './ReadingProvider'
 
-interface ChapterModalProps {
-  chapter: Chapter
-  onClose: () => void
-}
-
-export function ChapterModal({ chapter, onClose }: ChapterModalProps) {
-  const pts = pointCount(chapter.sections)
-
-  useEffect(() => {
-    const handleKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') onClose()
-    }
-    document.addEventListener('keydown', handleKey)
-    return () => document.removeEventListener('keydown', handleKey)
-  }, [onClose])
-
-  useEffect(() => {
-    document.body.style.overflow = 'hidden'
-    return () => {
-      document.body.style.overflow = ''
-    }
-  }, [])
-
-  return (
-    <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-[var(--niti-overlay)] backdrop-blur-sm animate-fade-in"
-      onClick={onClose}
-    >
-      <div
-        className="relative w-full max-w-2xl h-full max-h-full md:h-auto md:max-h-[90vh] overflow-y-auto bg-niti-surface rounded-none md:rounded-2xl animate-slide-up"
-        onClick={(e) => e.stopPropagation()}
-      >
-        {/* Gold accent line */}
-        <div className="h-1 rounded-t-2xl bg-[image:linear-gradient(to_right,var(--niti-gold-gradient-from),var(--niti-gold-gradient-to))]" />
-
-        {/* Close button */}
-        <button
-          className="absolute top-4 right-4 w-11 h-11 flex items-center justify-center rounded-lg text-niti-text-muted hover:text-niti-text-primary hover:bg-niti-surface-hover transition-colors z-10"
-          onClick={onClose}
-          aria-label="Close"
-        >
-          <span className="text-lg">&times;</span>
-        </button>
-
-        <div className="p-6 md:p-8">
-          {/* Header */}
-          <div className="flex items-start gap-4 mb-6">
-            <div
-              className="w-12 h-12 rounded-xl flex items-center justify-center text-xl flex-shrink-0"
-              style={{ backgroundColor: chapter.color + '22' }}
-            >
-              {chapter.icon}
-            </div>
-            <div className="flex-1 min-w-0">
-              <div className="flex items-center gap-3 text-xs font-sans text-niti-text-muted mb-2">
-                <span className="text-niti-gold font-medium">{chapter.num}</span>
-                <span>{chapter.date}</span>
-                <span>{pts} points</span>
-              </div>
-              <h2 className="font-serif text-[28px] font-semibold text-niti-text-primary leading-tight">
-                {chapter.title}
-              </h2>
-              {chapter.subtitle && (
-                <p className="text-sm text-niti-text-secondary font-sans mt-2">
-                  {chapter.subtitle}
-                </p>
-              )}
-            </div>
-          </div>
-
-          {/* Sections */}
-          <div className="space-y-6">
-            {chapter.sections.map((section, idx) => (
-              <div key={idx}>
-                <div className="flex items-center gap-3 mb-3">
-                  <div
-                    className="w-[3px] h-4 rounded-full"
-                    style={{ backgroundColor: chapter.color }}
-                  />
-                  <h3 className="uppercase font-sans text-xs tracking-widest text-niti-text-secondary font-medium">
-                    {section.heading}
-                  </h3>
-                </div>
-                <ul className="space-y-2 pl-4">
-                  {section.points.map((point, pIdx) => {
-                    const isQuote = point.startsWith('\u201C') || point.startsWith('"')
-                    if (isQuote) {
-                      return (
-                        <li
-                          key={pIdx}
-                          className="text-sm text-niti-text-secondary font-serif italic border-l-2 border-niti-border-hover pl-3 py-0.5"
-                        >
-                          {point}
-                        </li>
-                      )
-                    }
-                    return (
-                      <li
-                        key={pIdx}
-                        className="text-sm text-niti-text-primary flex items-start gap-2"
-                      >
-                        <span
-                          className="w-1.5 h-1.5 rounded-full flex-shrink-0 mt-1.5"
-                          style={{ backgroundColor: chapter.color }}
-                        />
-                        <span>{point}</span>
-                      </li>
-                    )
-                  })}
-                </ul>
-              </div>
-            ))}
-          </div>
-
-          {/* End ornament */}
-          <div className="text-center text-niti-text-muted mt-8 tracking-[0.5em] text-sm">
-            &#9670; &#9670; &#9670;
-          </div>
-        </div>
+export function ChapterModal({ chapter, onClose }: { chapter: Chapter; onClose: () => void }) {
+  const { saved, ready, toggleSaved } = useReading()
+  const returnFocus = useRef(typeof document !== 'undefined' ? document.activeElement as HTMLElement : null)
+  const isSaved = saved.includes(chapter.id)
+  return <Dialog open onOpenChange={open => { if (!open) onClose() }}>
+    <DialogContent className="preview-dialog" onCloseAutoFocus={event => { event.preventDefault(); returnFocus.current?.focus() }}>
+      <div className="preview-book"><BookCover chapter={chapter} /></div>
+      <div className="preview-body">
+        <Badge variant="secondary" className="mb-4">{categoryFor(chapter)?.name || 'Collected wisdom'}</Badge>
+        <DialogTitle className="font-serif text-3xl font-medium leading-tight">{chapter.title}</DialogTitle>
+        <DialogDescription className="mt-2 text-base">{chapter.subtitle || 'Collected reading notes'}</DialogDescription>
+        <div className="preview-meta"><span><Clock size={14} />{readingMinutes(chapter)} min read</span><span><BookOpen size={14} />{pointCount(chapter.sections)} key points</span></div>
+        <Separator className="my-5" />
+        <h3 className="mb-3 text-base font-medium">Inside this summary</h3>
+        <ul className="preview-outline">{chapter.sections.slice(0, 5).map((section, index) => <li key={index}><span />{section.heading}</li>)}</ul>
+        {chapter.sections.length > 5 && <p className="mt-3 text-sm text-muted-foreground">And {chapter.sections.length - 5} more sections to explore.</p>}
+        <div className="preview-actions"><Button asChild><Link href={`/chapter/${chapter.id}`}>Read the summary<ArrowUpRight size={16} /></Link></Button><Button variant="outline" size="icon" disabled={!ready} aria-label={isSaved ? 'Remove from reading list' : 'Save to reading list'} aria-pressed={isSaved} onClick={() => toggleSaved(chapter.id)}><Bookmark size={16} fill={isSaved ? 'currentColor' : 'none'} /></Button></div>
       </div>
-    </div>
-  )
+    </DialogContent>
+  </Dialog>
 }

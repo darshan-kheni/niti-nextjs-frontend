@@ -1,61 +1,31 @@
 import { notFound } from 'next/navigation'
-import { cookies } from 'next/headers'
-import { createClient } from '@supabase/supabase-js'
-import { createServerClient } from '@shared/supabase/server'
-import { ChapterDetail } from '@/components/ChapterDetail'
-import type { Chapter } from '@shared/types'
 import type { Metadata } from 'next'
+import { ChapterDetail } from '@/components/ChapterDetail'
+import { getPublishedChapters } from '@/lib/chapters'
 
 export const revalidate = 3600
 export const dynamicParams = true
 
-// Use direct client for build-time functions (no request context available)
-function createBuildClient() {
-  return createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-  )
-}
-
 export async function generateStaticParams() {
-  const supabase = createBuildClient()
-  const { data } = await supabase
-    .from('chapters')
-    .select('id')
-    .eq('published', true)
-  return data?.map(c => ({ id: String(c.id) })) ?? []
+  const chapters = await getPublishedChapters()
+  return chapters.map(chapter => ({ id: String(chapter.id) }))
 }
 
 export async function generateMetadata({ params }: { params: { id: string } }): Promise<Metadata> {
-  const supabase = createServerClient(cookies())
-  const { data: chapter } = await supabase
-    .from('chapters')
-    .select('title, subtitle')
-    .eq('id', params.id)
-    .eq('published', true)
-    .single()
-
-  if (!chapter) return { title: 'Chapter Not Found' }
-
-  const title = chapter.subtitle
-    ? `${chapter.title} — ${chapter.subtitle}`
-    : chapter.title
-
+  const chapters = await getPublishedChapters()
+  const chapter = chapters.find(chapter => String(chapter.id) === params.id)
+  if (!chapter) notFound()
   return {
-    title: `${title} | Niti`,
-    description: `Key insights from ${chapter.title}`,
-    openGraph: { title, description: `Key insights from ${chapter.title}` },
+    title: `${chapter.title} | Niti`,
+    description: `Explore the collected insights from ${chapter.title}${chapter.subtitle ? ` — ${chapter.subtitle}` : ''}.`,
+    openGraph: { title: `${chapter.title} | Niti`, description: `Collected reading notes and key ideas from ${chapter.title}.` },
   }
 }
 
 export default async function ChapterPage({ params }: { params: { id: string } }) {
-  const supabase = createServerClient(cookies())
-  const { data: chapter } = await supabase
-    .from('chapters')
-    .select('*')
-    .eq('id', params.id)
-    .eq('published', true)
-    .single()
-  if (!chapter) notFound()
-  return <ChapterDetail chapter={chapter as Chapter} />
+  const chapters = await getPublishedChapters()
+  const index = chapters.findIndex(chapter => String(chapter.id) === params.id)
+  if (index === -1) notFound()
+  const neighbors = (chapter: typeof chapters[number] | undefined) => chapter ? { id: chapter.id, title: chapter.title } : undefined
+  return <ChapterDetail chapter={chapters[index]} library={chapters.map(({ id, num }) => ({ id, num }))} previous={neighbors(chapters[index - 1])} next={neighbors(chapters[index + 1])} />
 }

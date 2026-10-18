@@ -1,29 +1,8 @@
 'use client'
+import { BookOpen, RotateCcw } from 'lucide-react'
+import { LibraryShell } from '@/components/LibraryShell'
+import { Button } from '@/components/ui/button'
 
-export default function Error({
-  error,
-  reset,
-}: {
-  error: Error & { digest?: string }
-  reset: () => void
-}) {
-  return (
-    <div className="flex min-h-screen flex-col items-center justify-center gap-4">
-      <span className="text-4xl" role="img" aria-label="Warning">
-        ⚠️
-      </span>
-      <h2 className="text-niti-text-primary font-sans text-lg font-medium">
-        Something went wrong
-      </h2>
-      <p className="text-niti-text-secondary font-sans text-sm">
-        {error.message || 'An unexpected error occurred.'}
-      </p>
-      <button
-        onClick={reset}
-        className="mt-2 rounded-md bg-[image:linear-gradient(to_right,var(--niti-gold-gradient-from),var(--niti-gold-gradient-to))] px-5 py-2 font-sans text-sm font-medium text-niti-bg transition-opacity hover:opacity-90"
-      >
-        Try again
-      </button>
-    </div>
-  )
+export default function Error({ reset }: { error: Error & { digest?: string }; reset: () => void }) {
+  return <LibraryShell><div className="page-state"><BookOpen size={36} strokeWidth={1.2} /><h2>The library needs a moment.</h2><p>We couldn’t load the summaries. Check your connection, then try opening the library again.</p><Button onClick={reset}><RotateCcw size={15} />Try again</Button></div></LibraryShell>
 }

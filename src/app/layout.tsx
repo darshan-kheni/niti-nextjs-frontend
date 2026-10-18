@@ -19,13 +19,19 @@ const sans = Outfit({
 })
 
 export const metadata: Metadata = {
+  applicationName: 'Niti',
+  appleWebApp: {
+    capable: true,
+    title: 'Niti',
+    statusBarStyle: 'default',
+  },
   title: 'Niti \u2014 Wisdom Codex',
   description:
-    'Explore 49+ book summaries distilled into actionable wisdom. A curated codex of insights from the greatest minds.',
+    'A personal library of book summaries and collected insights. Explore ideas on wealth, mindset, leadership, and a considered life.',
   openGraph: {
     title: 'Niti \u2014 Wisdom Codex',
     description:
-      'Explore 49+ book summaries distilled into actionable wisdom. A curated codex of insights from the greatest minds.',
+      'A personal library of book summaries and collected insights for a considered life.',
     url: 'https://niti.orphilia.com',
     siteName: 'Niti',
     type: 'website',
@@ -39,7 +45,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${serif.variable} ${sans.variable}`} suppressHydrationWarning>
-      <body className="bg-niti-bg text-niti-text-primary font-serif min-h-screen antialiased">
+      <body className="min-h-screen bg-background font-sans text-foreground antialiased">
         <Providers>{children}</Providers>
       </body>
     </html>

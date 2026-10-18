@@ -1,50 +1,56 @@
-# Niti — Wisdom Codex (Reader)
+# Niti — a wisdom library
 
-A curated digital library of 49+ book summaries distilled into actionable wisdom. Built with Next.js 14, Supabase, and Tailwind CSS.
+A personal collection of book summaries and reading notes, built with Next.js 14, Supabase, React 18, Tailwind CSS 3, and shadcn/ui (Radix).
 
-**Live:** [niti.orphilia.com](https://niti.orphilia.com)
+Live site: [niti.orphilia.com](https://niti.orphilia.com). Local changes require deployment to update the live site.
 
-## Features
+## Reader experience
 
-- **Chapter Grid** — Browse 49+ book summaries with grid/list view toggle
-- **Search & Filter** — Client-side search across titles, authors, headings, and points
-- **Category Filter** — 6 categories: Wealth, Business, Mindset, Leadership, Life, Science
-- **Chapter Modal** — Quick preview with sections and key points
-- **Chapter Pages** — Individual SSG pages with ISR (revalidates every hour)
-- **Mobile-First** — Fully responsive dark theme with gold accents
-- **ISR Webhook** — On-demand revalidation triggered by admin app
+- A pine-and-paper library, original typographic book jackets, EB Garamond and Outfit typography, and light/dark/system themes.
+- Readable 14–18px interface/body typography, 22px reader text, and a single-column phone collection.
+- Full-text search across titles, subtitles, headings, and points; six interest filters; numeric collection ordering, alphabetical sorting, and shortest-read sorting.
+- Grid/list layouts, accessible quick-preview dialogs, and a mobile navigation sheet.
+- A browser-local reading list and completed-summary state, shared between pages and browser tabs. No sign-in or cloud synchronization.
+- A focused reader with contents navigation, reading progress, adjustable type size, and previous/next summaries.
+- Published-only Supabase reads, hourly data revalidation, and the existing admin-triggered revalidation webhook.
 
-## Tech Stack
-
-- **Framework:** Next.js 14 (App Router, Server Components)
-- **Database:** Supabase (PostgreSQL + RLS)
-- **Styling:** Tailwind CSS with custom design tokens
-- **Fonts:** Cormorant Garamond (serif) + Outfit (sans)
-- **Validation:** Zod schemas
-
-## Getting Started
+## Local development
 
 ```bash
-pnpm install
-cp .env.example .env.local
-# Fill in Supabase credentials
-pnpm dev
+npm install
+cp .env.example .env
+# Fill in the existing Supabase reader credentials and a shared revalidation secret.
+npm run dev
 ```
 
-## Environment Variables
+Never replace an existing `.env` when setting up an already-configured checkout. Required names: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, and `REVALIDATION_SECRET`. Use the same revalidation secret in the reader and admin deployments. Do not put a service-role key in the reader.
 
-```
-NEXT_PUBLIC_SUPABASE_URL=     # Supabase project URL
-NEXT_PUBLIC_SUPABASE_ANON_KEY= # Supabase anon key
-REVALIDATION_SECRET=           # Shared secret for ISR webhook
-```
-
-## Seeding Data
+## Checks
 
 ```bash
-SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... pnpm seed
+npm run typecheck
+npm run build
+npm run audit:content
 ```
 
-## Design
+The content audit is read-only and uses `.env` (Node 20.6+). It reports visible records, schema validation failures, duplicate identifiers, missing attribution, and category coverage. It does not prove database constraints or RLS behavior.
 
-Dark theme (#08080B) with gold accents (#C8A44E). Typography: Cormorant Garamond for headings, Outfit for body text.
+To preview a production build while another dev server is running, isolate its generated output:
+
+```bash
+NITI_DIST_DIR=.next-preview npm run build
+NITI_DIST_DIR=.next-preview npm start -- --port 3100
+```
+
+In a second terminal, `node scripts/check-production.mjs` checks the current 49-summary collection over HTTP, including all reader pages, a category route, the server-rendered reading-list route, and a missing-summary response. It does not exercise browser interactions or verify visual layout. Set `NITI_TEST_URL` to use another local port. This check intentionally asserts the audited collection size and should be updated when the collection changes.
+
+## Design and data notes
+
+The shared book mark is used by the favicon, Apple home-screen icon, and web-app manifest. `npm run icons:generate` rebuilds the multi-size favicon and the 192px, 512px, and 1024px PNG exports in `public/brand`. The 1024px export is also available for use in Apple app projects. Existing home-screen shortcuts may need to be added again after deploying an icon change.
+
+- [Design direction](DESIGN.md)
+- [Database and content review](docs/DATABASE_REVIEW.md)
+- [Read-only database catalog inspection](docs/database-inspection.sql)
+- [shadcn component documentation](https://ui.shadcn.com/docs/components)
+
+The book jackets are original representations of the reading notes, not official publisher artwork. The live data contains freeform notes; editorial corrections and database migrations were not applied during the redesign.
